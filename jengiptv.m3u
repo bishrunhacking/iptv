@@ -89,17 +89,21 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="" tvg-logo="http://2.bp.blogspot.com/-uonTiMfQDnI/UcYeMxykOJI/AAAAAAAABq8/T2OmzshGDC4/s1600/tv3_logo.png" tvg-url="" group-title="MYTV",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" group-title="MYTV",TV Alhijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MYTV",TV6
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" tvg-url="" group-title="MYTV",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 group-title="MYTV" ch-number="107" tvg-id="DidikTV KPM" tvg-chno="DidikTV KPM" tvg-name="DidikTV KPM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="MYTV",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV" ch-number="107" tvg-id="DidikTV KPM" tvg-chno="DidikTV KPM" tvg-name="DidikTV KPM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" tvg-url="" group-title="MYTV",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" group-title="MYTV",TV Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="MYTV", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
