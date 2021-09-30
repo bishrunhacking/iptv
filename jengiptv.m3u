@@ -153,6 +153,9 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Kids",Aniplus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
+#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://i.ibb.co/jDKvSs3/CVZXS.png" group-title="Kids",Animax
+https://link.zozotv.xyz:443/Freemium1/unlimited99/69
+
 ################################################################# Movies #################################################################
 #EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title="Movies", Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
