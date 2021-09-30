@@ -10,7 +10,7 @@
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png" tvg-url="" group-title="Astro",Astro Oasis
-http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+rtmp://live.layarku.tv/live/sz=IMN=oasis634543287956387365618946557239573453
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU" tvg-url="" group-title="Astro",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
