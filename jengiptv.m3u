@@ -376,7 +376,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="https://pbs.twimg.com/media/D21XsMSUcAA12NQ.jpg" tvg-logo="https://www.fmradioslive.com/wp-content/uploads/2013/01/TVRI-TV-Indonesia-Logo1.jpeg" group-title="",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://bit.ly/30EWhNZ" group-title="Indonesia", SCTV
+#EXTINF: -1 tvg-logo="https://bit.ly/30EWhNZ" group-title="IndoTV", SCTV
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 
 #EXTINF:-1 tvg-id="News.id" tvg-name="News" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png" group-title="News",ANTV 
