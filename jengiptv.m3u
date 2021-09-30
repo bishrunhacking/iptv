@@ -1,8 +1,3 @@
-#https://yamcode.com/raw/nasi-campur-iptv-200-channels
-#https://yamcode.com/raw/playlist-malaysia
-#https://raw.githubusercontent.com/zhafri/IPTV/main/@$TRO%20tV.m3u
-#https://raw.githubusercontent.com/jengkoil/epg/master/astro.xml
-
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml"
 ################################################################# AstroTV #################################################################
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="Astro",Astro Ria HD
@@ -67,63 +62,64 @@ http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
 ################################################################# MalaysiaTV #################################################################
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" tvg-country="MY" tvg-language="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="MalaysiaTV",TV1 HD
+#EXTINF:-1 tvg-id="RTMTV1.my" tvg-name="RTM TV 1" tvg-country="MY" tvg-language="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="MalaysiaTV",RTM TV 1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-country="MY" tvg-language="" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" tvg-url="" group-title="MalaysiaTV",TV2
+#EXTINF:-1 tvg-id="RTMTV2.my" tvg-name="RTM TV 2" tvg-country="MY" tvg-language="" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" tvg-url="" group-title="MalaysiaTV",RTM TV 2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="" tvg-logo="http://2.bp.blogspot.com/-uonTiMfQDnI/UcYeMxykOJI/AAAAAAAABq8/T2OmzshGDC4/s1600/tv3_logo.png" tvg-url="" group-title="MalaysiaTV",TV3
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV 3" tvg-country="MY" tvg-language="" tvg-logo="http://2.bp.blogspot.com/-uonTiMfQDnI/UcYeMxykOJI/AAAAAAAABq8/T2OmzshGDC4/s1600/tv3_logo.png" tvg-url="" group-title="MalaysiaTV",TV 3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MalaysiaTV",TV6
+#EXTINF:-1 tvg-id="TV6.my" tvg-name="TV 6" tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MalaysiaTV",TV 6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-#EXTINF:-1 group-title="MalaysiaTV" ch-number="NTV7" tvg-id="NTV7" tvg-chno="DidikTV KPM" tvg-name="DidikTV KPM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",NTV7
+#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png" group-title="MalaysiaTV",NTV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="MalaysiaTV",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" tvg-url="" group-title="MalaysiaTV",TV9
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV 9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" tvg-url="" group-title="MalaysiaTV",TV 9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="Al-Hijrah" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" group-title="MalaysiaTV",Al-Hijrah
+#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" group-title="MalaysiaTV", TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="MalaysiaTV", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroBoo.my" tvg-name="BOO HD" tvg-country="MY" tvg-language="" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" tvg-url="" group-title="MalaysiaTV",BOO HD
+#EXTINF:-1 tvg-id="AstroBoo.my" tvg-name="BOO" tvg-country="MY" tvg-language="" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" tvg-url="" group-title="MalaysiaTV",BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO HD" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="MalaysiaTV",HBO HD
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="MalaysiaTV",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="MalaysiaTV",Naura HD
+#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="MalaysiaTV",Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Hello_TV.png" tvg-url="" group-title="Astro",Hello HD
+#EXTINF:-1 tvg-id="Hello.my" tvg-name="Hello" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Hello_TV.png" tvg-url="" group-title="Astro",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
-#EXTINF:-1 group-title="MalaysiaTV" ch-number="110" tvg-id="OKEY" tvg-chno="OKEY" tvg-name="TV OKEY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",TV OKEY
+#EXTINF:-1 group-title="MalaysiaTV" tvg-id="RTMTVOkey.my" tvg-chno="OKEY" tvg-name="RTM TV Okey" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",RTM TV Okey
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MalaysiaTV" ch-number="111" tvg-id="Sukan RTM"" tvg-chno="Sukan RTM"" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-id="SukanRTM.my" tvg-country="MY" tvg-language="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tvSUKANlogo_NEW.jpg" group-title="",Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8
 
-#EXTINF:-1 group-title="MalaysiaTV" ch-number="TVS" tvg-id="TVS" tvg-chno="TVS" tvg-name="TVS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
+#EXTINF:-1 group-title="MalaysiaTV" tvg-id="TVS.my" tvg-name="TVS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
-#EXTINF:-1 group-title="MalaysiaTV" ch-number="Berita RTM" tvg-id="Berita RTM" tvg-chno="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTINF:-1 group-title="MalaysiaTV" tvg-id="Berita RTM" tvg-chno="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="ohk.my" tvg-name="Oh!K HD" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" tvg-url="" group-title="MalaysiaTV",Oh!K HD
+#EXTINF:-1 tvg-id="Ohk.us" tvg-name="Oh! K" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" tvg-url="" group-title="MalaysiaTV",Oh! K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="MalaysiaTV",HGTV HD
+#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="MalaysiaTV",HGTV Asia
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 ################################################################# Kids #################################################################
