@@ -8,7 +8,7 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" tvg-url="" group-title="Astro",Astro Warna
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
-
+at
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxJ9W4ZSIG9nY8BiB8IlCyYYvokYhzhmqEGbQjkrcTQeoZOXw0sV1xCm486gZAcczuw&usqp=CAU" tvg-url="" group-title="Astro",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
@@ -245,21 +245,6 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="JIBSSBS.kr" tvg-country="KR" tvg-language="" tvg-logo="http://jibs.co.kr/resources/common/img/bottom_logo.png" group-title="AsianTV",JIBS SBS
 http://123.140.197.22/stream/1/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bKgwJZb.png?1" group-title="AsianTV",JIANGSU
-http://223.82.250.72/live/hdjiangsustv/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rciggYQ.jpg" group-title="AsianTV",HUNAN
-http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i6V7fmU.jpg" group-title="AsianTV",SHENZHEN
-http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8 
-
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/fdFQonN.jpg" group-title="AsianTV",YTN DMB
-http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8?checkedby
-
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/FIzME5L.jpg" group-title="AsianTV",YTN SCIENCE
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-
 #EXTINF:-1 tvg-id=" " group-title="AsianTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
@@ -286,12 +271,6 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8
 
 ################################################################# BollywoodTV #################################################################
-#EXTINF:-1 tvg-country="IN" tvg-logo="https://hindi.gyaanghantaa.com/wp-content/uploads/sites/2/2018/08/it-logo.png" group-title="BollywoodTV", India Today
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
-
-#EXTINF:-1 tvg-ID=ZeeTV.sg tvg-logo=https://i.postimg.cc/Xq4SbbCF/4867316278001.png group-title="BollywoodTV", SONY SAB
-https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhYDGfVQtUK6TgcgnmbF37iGtg75_ZCmcR5EmoJ4QU7lKhNJBWTasgLsUHA_Nk-P54IF4&usqp=CAU" group-title="BollywoodTV",Color HD
 https://bit.ly/3lidjf4
 
@@ -306,18 +285,6 @@ https://bit.ly/3ttJFa6
 
 #EXTINF:-1 tvg-id="StarPlusHD.in" tvg-name="Star Plus HD" tvg-country="IN" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="BollywoodTV",Star PlusHD
 https://bit.ly/3nhpLhH
-
-#EXTINF:-1 tvg-id="zee.my" tvg-name="ZEE Cinema UK" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png" tvg-url="" group-title="BollywoodTV", Zee Cinema UK
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeeSmileUSA.in" tvg-name="Zee Smile USA" tvg-country="IN" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKs6wA8AXgvhaE3yn9Vgp7C4muaUwBni-HGejT4zX1vMTFuT5xI7KEop0F1o0LfiKOv0&usqp=CAU" group-title="BollywoodTV",Zee Smile
-https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeeMagic" tvg-name="Zee Music" tvg-country="IN" tvg-language="" tvg-logo="https://spng.subpng.com/20180503/fvw/kisspng-zee-tv-zee-entertainment-enterprises-zee-news-zee-5aeb1882a86c84.1385515615253566746899.jpg" group-title="BollywoodTV",Zee Magic
-https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Zee5Romance.in" tvg-name="Zee5 Romance" tvg-country="IN" tvg-language="" tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/7/2020/08/Zee5-Logo_v02-2.jpg" group-title="BollywoodTV",Zee5 Romance 
-https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Zing.in" tvg-name="Zing" tvg-country="IN" tvg-language="" tvg-logo="https://www.indianetzone.com/photos_gallery/86/Zee_Music_Indian_Music_Channel_1.jpg" group-title="BollywoodTV",Zing TV 
 https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
@@ -372,30 +339,6 @@ http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/id/AXN.id.png" tvg-url="" group-title="General",AXN HD
 http://45.225.204.7:8000/play/a05e
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://advanced-television.com/wp-content/uploads/2020/01/insightTV-150x150.png" tvg-url="" group-title="General",Inwonder
-https://inwonder-samsungindia.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png" tvg-url="" group-title="General",Introuble 
-https://introuble-samsungindia.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=https://cdn.mos.cms.futurecdn.net/baYs9AuHxx9QXeYBiMvSLU-480-80.jpg group-title="General",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-#EXTINF:-1 tvg-country="" tvg-logo="https://img.favpng.com/13/18/4/discovery-channel-logo-television-channel-discovery-inc-png-favpng-s7KJJLeavn2MtqhYeGf5rbYtH.jpg" group-title="General",DISCOVERY CHANNEL HD
-http://45.225.204.7:8000/play/a02l
-
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/516px-Smithsonian_logo_color.svg.png" group-title="General",Smithsonian Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-country="IT" tvg-language="" tvg-logo="https://img.apksum.com/7e/com.ten.mtodplay/4.1.1/icon.png" group-title="General",Motor Trend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-
-#EXTINF:-1 tvg-id="canalmotor.tv" tvg-name="Canal Motor" tvg-country="IT" tvg-language="English" tvg-logo="https://i.imgur.com/9z3mzDJ.jpg" group-title="General",Canal Motor
-http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotorTV.it" tvg-name="Motor TV" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/muS5HF5.jpg" group-title="General",Motor TV
-https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-
 ################################################################# Sports #################################################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aemny9A.jpg" group-title="Sports", GOLF CHANNEL edge
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
@@ -427,9 +370,6 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Documentary",National Geographic Wild
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-country="ASIA" tvg-language="" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Documentary",National Geographic Wild Asia
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 ################################################################# News #################################################################
 
