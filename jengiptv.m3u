@@ -140,10 +140,10 @@ https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5tgFmtx9WzvA6xTMeuQoSRpXv9zLH_kV0g&usqp=CAU" group-title="AstroTV", ZEE Actions
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="BoolywoodTV",ZeeBioskop
+#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="BollywoodTV",ZeeBioskop
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony Max" tvg-name="Sony Max" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="BoolywoodTV",Sony Max
+#EXTINF:-1 tvg-id="Sony Max" tvg-name="Sony Max" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="BollywoodTV",Sony Max
 https://bit.ly/3BZ7uK5
 
 #EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title="Movies", Flix HD
