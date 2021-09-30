@@ -75,10 +75,7 @@ http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" tvg-url="" group-title="Astro",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil HD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Astro",Astro Vaanavil HD
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
-
-#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil SD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Astro",Astro Vaanavil SD
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Astro",Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
 ################################################################# MYTV #################################################################
