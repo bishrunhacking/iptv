@@ -357,9 +357,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="https://img.favpng.com/13/18/4/discovery-channel-logo-television-channel-discovery-inc-png-favpng-s7KJJLeavn2MtqhYeGf5rbYtH.jpg" group-title="General",DISCOVERY CHANNEL HD
 http://45.225.204.7:8000/play/a02l
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://img.favpng.com/13/18/4/discovery-channel-logo-television-channel-discovery-inc-png-favpng-s7KJJLeavn2MtqhYeGf5rbYtH.jpg" group-title="General",DISCOVERY CHANNEL Tubo
-http://45.225.204.7:8000/play/a029
-
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/516px-Smithsonian_logo_color.svg.png" group-title="General",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
@@ -455,9 +452,6 @@ http://astro2.rastream.com/mix
 
 #EXTINF:-1 group-title="Radio" tvg-name="My FM" tvg-logo="https://www.fmradioslive.com/wp-content/uploads/2013/04/My-FM-Malaysia-Logo.jpg",My FM
 http://astro2.rastream.com/myfm
-
-#EXTINF:-1 group-title="Radio" tvg-name="Astro Arena" tvg-logo="https://lh3.googleusercontent.com/proxy/gU7AEQTjCRxGucbkwBlLkzOQfJf2QtyQxolEvuvMsMuwvr6HDXOEH_ZzQ_XHsJw3TTMn_odO_JrHzi-SPSho6OI4xPz_G7lPqjeITdJR3z_5XBvIWBbUpBJ0jAHOniHxxU5qdFiq-imZStnoXQ=w1200-h630-p-k-no-nu",Astro Arena
-http://astro2.rastream.com/amp-arena
 
 #EXTINF:-1 group-title="Radio" tvg-name="Nasional FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
