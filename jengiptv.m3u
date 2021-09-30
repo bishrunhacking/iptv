@@ -3,16 +3,16 @@
 #https://raw.githubusercontent.com/zhafri/IPTV/main/@$TRO%20tV.m3u
 #https://raw.githubusercontent.com/jengkoil/epg/master/astro.xml
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/jengkoil/epg-1/master/sites/astro.com.my.channels.xml,https://raw.githubusercontent.com/jengkoil/epg/master/astro.xml,https://raw.githubusercontent.com/jengkoil/epg/master/mytv.xml,https://raw.githubusercontent.com/jengkoil/epg/master/rtmklik.xml,https://raw.githubusercontent.com/jengkoil/epg/master/unifitv.xml" refresh="24"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/jengkoil/epg-1/master/sites/astro.com.my.channels.xml"
 
 ################################################################# AstroTV #################################################################
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="Astro,MalaysiaTV",Astro Ria
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="Astro",Astro Ria
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU" tvg-url="" group-title="Astro,MalaysiaTV",Astro Ceria
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU" tvg-url="" group-title="Astro",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" tvg-url="" group-title="Astro,MalaysiaTV",Astro Warna
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" tvg-url="" group-title="Astro",Astro Warna
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxJ9W4ZSIG9nY8BiB8IlCyYYvokYhzhmqEGbQjkrcTQeoZOXw0sV1xCm486gZAcczuw&usqp=CAU" tvg-url="" group-title="Astro",Astro Citra
@@ -23,12 +23,6 @@ rtmp://live.layarku.tv/live/sz=IMN=oasis634543287956387365618946557239573453
 
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="" tvg-logo="https://newcastlebeach.org/images/prima-logo-6.png" tvg-url="" group-title="Astro",Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroBoo.my" tvg-name="BOO" tvg-country="MY" tvg-language="" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" tvg-url="" group-title="Astro",BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Astro",HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroAOD311.my" tvg-name="Astro AOD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Astro",Astro AOD
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
@@ -75,61 +69,67 @@ http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Astro",Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
-################################################################# MYTV #################################################################
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="MYTV",TV1
+################################################################# MalaysiaTV #################################################################
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="MalaysiaTV",TV1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-country="MY" tvg-language="" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" tvg-url="" group-title="MYTV",TV2
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-country="MY" tvg-language="" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" tvg-url="" group-title="MalaysiaTV",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="" tvg-logo="http://2.bp.blogspot.com/-uonTiMfQDnI/UcYeMxykOJI/AAAAAAAABq8/T2OmzshGDC4/s1600/tv3_logo.png" tvg-url="" group-title="MYTV",TV3
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="" tvg-logo="http://2.bp.blogspot.com/-uonTiMfQDnI/UcYeMxykOJI/AAAAAAAABq8/T2OmzshGDC4/s1600/tv3_logo.png" tvg-url="" group-title="MalaysiaTV",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MYTV",TV6
+#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MalaysiaTV",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-#EXTINF:-1 group-title="MYTV" ch-number="107" tvg-id="DidikTV KPM" tvg-chno="DidikTV KPM" tvg-name="DidikTV KPM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+#EXTINF:-1 group-title="MalaysiaTV" ch-number="DidikTV KPM" tvg-id="DidikTV KPM" tvg-chno="DidikTV KPM" tvg-name="DidikTV KPM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="MYTV",8TV
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="MalaysiaTV",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" tvg-url="" group-title="MYTV",TV9
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" tvg-url="" group-title="MalaysiaTV",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" group-title="MYTV",TV Alhijrah
+#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" group-title="MalaysiaTV",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="MYTV", Drama Sangat
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="MalaysiaTV", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="MYTV",Naura SD
+#EXTINF:-1 tvg-id="AstroBoo.my" tvg-name="BOO" tvg-country="MY" tvg-language="" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" tvg-url="" group-title="MalaysiaTV",BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="MalaysiaTV",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="MalaysiaTV",Naura SD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV" ch-number="110" tvg-id="OKEY" tvg-chno="OKEY" tvg-name="OKEY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
+#EXTINF:-1 group-title="MalaysiaTV" ch-number="110" tvg-id="OKEY" tvg-chno="OKEY" tvg-name="OKEY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MYTV" ch-number="111" tvg-id="Sukan RTM"" tvg-chno="Sukan RTM"" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
+#EXTINF:-1 group-title="MalaysiaTV" ch-number="111" tvg-id="Sukan RTM"" tvg-chno="Sukan RTM"" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MYTV" ch-number="GO Shop MYTV"" tvg-id="GO Shop MYTV" tvg-chno="GO Shop MYTV" tvg-name="GO Shop MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
+#EXTINF:-1 group-title="MalaysiaTV" ch-number="GO Shop MYTV"" tvg-id="GO Shop MYTV" tvg-chno="GO Shop MYTV" tvg-name="GO Shop MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
-#EXTINF:-1 group-title="MYTV" ch-number="TVS" tvg-id="TVS" tvg-chno="TVS" tvg-name="TVS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
+#EXTINF:-1 group-title="MalaysiaTV" ch-number="TVS" tvg-id="TVS" tvg-chno="TVS" tvg-name="TVS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
-#EXTINF:-1 group-title="MYTV" ch-number="Berita RTM" tvg-id="Berita RTM" tvg-chno="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTINF:-1 group-title="MalaysiaTV" ch-number="Berita RTM" tvg-id="Berita RTM" tvg-chno="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="ohk.my" tvg-name="OneHD" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" tvg-url="" group-title="MYTV",Oh!K hd
+#EXTINF:-1 tvg-id="ohk.my" tvg-name="OneHD" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" tvg-url="" group-title="MalaysiaTV",Oh!K hd
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="MYTV",HGTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="MalaysiaTV",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" tvg-url="" group-title="MYTV",RTM Sports
+#EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" tvg-url="" group-title="MalaysiaTV",RTM Sports
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
 
@@ -137,51 +137,28 @@ http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="Kids", Cartoon Network 
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://www.pngfind.com/pngs/m/296-2965113_94kib-1024x768-splat-nickelodeon-splat-logo-png-transparent.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://www.pngfind.com/pngs/m/296-2965113_94kib-1024x768-splat-nickelodeon-splat-logo-png-transparent.png" group-title="Kids",Nickelodeon
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
-http://45.225.204.7:8000/play/a02k
+#EXTINF:-1 tvg-id="NickJrTooUK.us" tvg-country="UK;IE" tvg-language="English" tvg-logo="http://neczbm.to/images/channels/NickJrToo.png" group-title="Kids",Nick Jr Too UK
+http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
 
-#EXTINF:-1 tvg-id="Toons Goggles" tvg-name="Toons" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9t7McNeAWB7GIaWxBxDuU0Bjq5jce1ZtopQ&usqp=CAU" group-title="Kids", Toons Goggles
-https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBeybladeBurstNick.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e8b551ddcd25500072c4dad/colorLogoPNG.png" group-title="Kids",Pluto TV Beyblade Burst Nick
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="EBS kids" tvg-name="EBS Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQMH5Z14crn8qMeUE8mmDROyoSiQpptyHgw&usqp=CAU" group-title="Kids",EBS Kids
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8?Uri:eroz_brebes.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBeybladeBurstNick.us" tvg-country="US" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5e8b551ddcd25500072c4dad/colorLogoPNG.png" group-title="Kids",Pluto TV Beyblade Burst Nick
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b551ddcd25500072c4dad&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a38b88ed-0712-11eb-8b9f-0242ac110002&terminate=false&userId=
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://i.ibb.co/X3w32yh/big.jpg" group-title="Kids", Big Buck Bunny
-https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBlazeNick.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e8b60419becf60008c841fd/colorLogoPNG.png" group-title="Kids",Pluto TV Blaze Nick
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b60419becf60008c841fd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ebc579c0-0712-11eb-97af-0242ac110002&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="Kids",Galxy tv
-https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBluesCluesNick.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e8b564ff59d130007363823/colorLogoPNG.png" group-title="Kids",Pluto TV Blue's Clues Nick
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b564ff59d130007363823&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=29e99f3f-0713-11eb-a59f-0242ac110002&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CMRkI5N.jpg" tvg-language="Spanish" group-title="Kids", Planeta Kids
-https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Kids",Aniplus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 ################################################################# Movies #################################################################
-#EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title="Movies", Flix HD
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 
-#EXTINF:-1 tvg-id="AndPrive.in" tvg-name="Privé HD" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",Privé HD 
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png group-title="Movies",BFlix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="Movies",TVN Movies
-http://210.210.155.35:80/dr9445/h/h21/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="Movies", HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-country="" tvg-logo="https://c3.klipartz.com/pngpicture/822/70/sticker-png-tv-channel-icons-pack-hbo-plus-black-thumbnail.png" group-title="Movies",HBO Plus
-http://45.225.204.7:8000/play/a00i
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Europe" tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg" group-title="Movies",Cinema Europe
-http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
 ################################################################# AsianTV #################################################################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="AsianTV",KBS WORLD
@@ -373,26 +350,11 @@ http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",BeIN 4
 http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 
-################################################################# Knowledge #################################################################
-#EXTINF:-1 tvg-country="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Knowledge",ANIMAL PLANET HD
+################################################################# Documentary #################################################################
+#EXTINF:-1 tvg-country="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Documentary",Animal Planet HD
 http://89.216.39.29:8001/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" tvg-url="" group-title="Knowledge",History Channel 
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTKHosICBzvYIpt8NasrH1DYeNwuGqAT17sw&usqp=CAU" group-title="Knowledge",Skills & Thrills
-https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Bisnet Adventure" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Knowledge",Bisnet Adventure
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-name="Nat Geo HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Knowledge",Nat Geo HD
-http://45.225.204.7:8000/play/a05q
-
-#EXTINF:-1 tvg-id="PlanetKnowledge" tvg-name="Planet Knowledge" tvg-country="UK" tvg-language="UK" tvg-logo="https://i.imgur.com/U8GADbT.jpg"  group-title="Knowledge",Planet Knowledge
-https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Knowledge",Love Nature 4K
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Documentary",Love Nature 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 ################################################################# News #################################################################
