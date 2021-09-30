@@ -98,7 +98,7 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-logo="https://hindi.gyaanghantaa.com/wp-content/uploads/sites/2/2018/08/it-logo.png" group-title="BollywoodTV", India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 
-#EXTINF:-1 tvg-ID=ZeeTV.sg group-title=INDIA tvg-logo=https://i.postimg.cc/Xq4SbbCF/4867316278001.png group-title="BollywoodTV", SONY SAB
+#EXTINF:-1 tvg-ID=ZeeTV.sg tvg-logo=https://i.postimg.cc/Xq4SbbCF/4867316278001.png group-title="BollywoodTV", SONY SAB
 https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhYDGfVQtUK6TgcgnmbF37iGtg75_ZCmcR5EmoJ4QU7lKhNJBWTasgLsUHA_Nk-P54IF4&usqp=CAU" group-title="BollywoodTV",Color HD
