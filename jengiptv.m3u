@@ -3,7 +3,7 @@
 #https://raw.githubusercontent.com/zhafri/IPTV/main/@$TRO%20tV.m3u
 #https://raw.githubusercontent.com/jengkoil/epg/master/astro.xml
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/jengkoil/epg-1/master/sites/astro.com.my.channels.xml,https://raw.githubusercontent.com/jengkoil/epg/master/astro.xml"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/jengkoil/epg-1/master/sites/astro.com.my.channels.xml,https://raw.githubusercontent.com/jengkoil/epg/master/astro.xml,https://raw.githubusercontent.com/jengkoil/epg/master/mytv.xml,https://raw.githubusercontent.com/jengkoil/epg/master/rtmklik.xml,https://raw.githubusercontent.com/jengkoil/epg/master/unifitv.xml"
 
 ################################################################# AstroTV #################################################################
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="Astro,MalaysiaTV",Astro Ria
