@@ -132,7 +132,20 @@ http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese;English" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax Japan (English Subs)
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://www.pngfind.com/pngs/m/296-2965113_94kib-1024x768-splat-nickelodeon-splat-logo-png-transparent.png" group-title="Kids",Nickelodeon
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids",Nickelodeon East
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickJrTooUK.us" tvg-country="UK;IE" tvg-language="English" tvg-logo="http://neczbm.to/images/channels/NickJrToo.png" group-title="Kids",Nick Jr Too UK
+http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="DisneyChannelAsia.us" tvg-country="ASIA" tvg-language="English" tvg-logo="" group-title="Kids",Disney Channel Asia
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJuniorAsia.us" tvg-country="ASIA" tvg-language="" tvg-logo="" group-title="Kids",Disney Junior Asia
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVBeybladeBurstNick.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e8b551ddcd25500072c4dad/colorLogoPNG.png" group-title="Kids",Pluto TV Beyblade Burst Nick
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -189,21 +202,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="Kids",Galxy TV
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-
-
-#EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="" group-title="KIDS",BOOMERANG
-http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="" group-title="KIDS",CARTOON NETWORK
-http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="DISNEY" tvg-logo="" group-title="KIDS",DISNEY
-http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="" group-title="KIDS",DISNEY XD
-http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="Nick" tvg-logo="" group-title="KIDS",Nick
-http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="" group-title="Kids",Nick Jr
-http://31.220.41.88:8081/live/uk-nickjr.stream/token=null
-
 
 ################################################################# Movies #################################################################
 #EXTINF:-1 tvg-id=Fox tvg-name="Malaysian Ghost Stories Episode 7" tvg-logo="https://malaytv.live/wp-content/uploads/2021/08/Malaysian-Ghost-Stories-1-310x165.jpg" group-title="Astro", Malaysian Ghost Stories Episode 7
