@@ -167,7 +167,17 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008
 #EXTINF:-1 tvg-id="PlutoTVBluesCluesNick.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e8b564ff59d130007363823/colorLogoPNG.png" group-title="Kids",Pluto TV Blue's Clues Nick
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b564ff59d130007363823&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=29e99f3f-0713-11eb-a59f-0242ac110002&terminate=false&userId=
 
+#EXTINF:-1 tvg-id="ABCKids.au" tvg-country="AU" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="Kids",ABC Kids
+https://c.mjh.nz/101002210222
 
+#EXTINF:-1 tvg-id="Ameba.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/612ZLob%2BSOL.png" group-title="Kids",Ameba (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BatteryPopXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="Kids",Battery Pop (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BratTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="Kids",Brat TV
+https://brat-rakuten.amagi.tv/playlist.m3u8
 
 ################################################################# Movies #################################################################
 
