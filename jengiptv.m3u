@@ -19,7 +19,8 @@ http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png" tvg-url="" group-title="Astro",Astro Oasis HD
-http://linkme.team:80/live/IPTV123/IPTV123/379781.m3u8
+rtmp://live.layarku.tv/live/sz=IMN=oasis634543287956387365618946557239573453
+#http://linkme.team:80/live/IPTV123/IPTV123/379781.m3u8
 
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima HD" tvg-country="MY" tvg-language="" tvg-logo="https://newcastlebeach.org/images/prima-logo-6.png" tvg-url="" group-title="Astro",Astro Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
@@ -204,40 +205,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/t3Jsks7.png" group-title="Kids",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
-#EXTINF:-1 tvg-id="" tvg-name="Spacetoon" tvg-logo="" group-title="Kids",Spacetoon
-http://forsat.men:8888/merpatistream/merpati99/1541
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="" group-title="Kids",Baby First
-http://forsat.men:8888/merpatistream/merpati99/1204
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="" group-title="Kids",Dunia Anak
-http://forsat.men:8888/merpatistream/merpati99/907
-#EXTINF:-1 tvg-id="" tvg-name="Toonmax" tvg-logo="" group-title="Kids",Toonmax
-http://forsat.men:8888/merpatistream/merpati99/1116
-#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="Disney XD" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/getpubliccontent?contentId=01ea7e32-190e-4088-99af-ef9842773879" group-title="Kids",Disney XD
-http://forsat.men:8888/merpatistream/merpati99/104
-#EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="" group-title="Kids",Disney UK
-http://forsat.men:8888/merpatistream/merpati99/2336
-#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="Kids",Duck TV
-http://forsat.men:8888/merpatistream/merpati99/1854
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nick Toons" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/f/fe/Nicktoons_SPLAT%21.PNG/revision/latest?cb=20171006010144" group-title="Kids",Nick Toons
-http://forsat.men:8888/merpatistream/merpati99/335
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon ID
-http://forsat.men:8888/merpatistream/merpati99/962
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="Kids",Nick Jr ID
-http://forsat.men:8888/merpatistream/merpati99/522
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
-http://forsat.men:8888/merpatistream/merpati99/306
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel ID
-http://forsat.men:8888/merpatistream/merpati99/3479
-#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network ID HD
-http://forsat.men:8888/merpatistream/merpati99/680
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://yt3.ggpht.com/a-/AJLlDp3iSf8EJ-cop8fRkxIKeU7JnMJvDtLWjbsKlA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Kids",Boomerang
-http://forsat.men:8888/merpatistream/merpati99/305
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://4.bp.blogspot.com/_WEmgbnumRFY/SO9bwY05QtI/AAAAAAAAGsY/EALyb7B2MVk/s400/Baby_tv.jpg" group-title="Kids",Baby TV
-http://forsat.men:8888/merpatistream/merpati99/296
-#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Nick-jr-2-logo-i1.png/revision/latest?cb=20161111232146" group-title="Kids",Nick Jr 2
-http://forsat.men:8888/merpatistream/merpati99/341
-#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="Disney Junior" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/disney-jr-post.jpg" group-title="Kids",Disney Junior
-http://forsat.men:8888/merpatistream/merpati99/213
 ################################################################# Movies #################################################################
 
 
@@ -295,7 +262,6 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8
 
 ################################################################# BollywoodTV #################################################################
-
 #EXTINF:-1 tvg-country="IN" tvg-logo="https://hindi.gyaanghantaa.com/wp-content/uploads/sites/2/2018/08/it-logo.png" group-title="BollywoodTV", India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 
@@ -431,12 +397,6 @@ http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 ################################################################# Documentary #################################################################
 #EXTINF:-1 tvg-country="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Documentary",Animal Planet HD
 http://89.216.39.29:8001/
-
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="https://flyingcursor.com/wp-content/uploads/2014/10/Nat-geo-Wild.png" group-title="Documentary",Nat Geo Wild HD
-http://linkme.team:80/live/IPTV123/IPTV123/379805.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo People HD" tvg-logo="" group-title="Astro",Nat Geo People HD
-http://linkme.team:80/live/IPTV123/IPTV123/379804.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Documentary",Love Nature 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
