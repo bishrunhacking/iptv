@@ -218,9 +218,6 @@ https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://www.pngfind.com/pngs/m/296-2965113_94kib-1024x768-splat-nickelodeon-splat-logo-png-transparent.png" group-title="Kids",Nickelodeon
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=https://i.ibb.co/1fj0kGV/airanglogo.png group-title="AsiaTV", Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM.jpg" tvg-url="" group-title="AsiaTV", Kpop TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
@@ -251,11 +248,7 @@ http://50.7.161.82:8278/streams/d/thrill_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-name="Celestial Classic Movies" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" tvg-url="" group-title="",Celestial Classic 天映经典
 http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 
-#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="Celestial Movies" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-url="" group-title="",Celestial Movies (Indon)
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AXN [Indonesia]" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/id/AXN.id.png" tvg-url="" group-title="",AXN 
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/id/AXN.id.png" tvg-url="" group-title="",AXN 
 http://45.225.204.7:8000/play/a05e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bKgwJZb.png?1" group-title="MandarinTV",JIANGSU
@@ -387,12 +380,6 @@ https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4cc
 
 #EXTINF:-1 tvg-id="EuronewsEnglishviaAlchimie.fr" tvg-name="Euronews English via Alchimie" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News",Euronews English
 https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="News" tvg-name="AfricaNews English" tvg-country="CG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png" group-title="News",AfricaNews
-https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id=" " group-title="International" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang TV
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 #EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/fdFQonN.jpg" group-title="South Korea(23)",YTN DMB
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8?checkedby
