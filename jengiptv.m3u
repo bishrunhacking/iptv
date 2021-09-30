@@ -418,12 +418,6 @@ http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",BeIN 4
 http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=Fox Sport tvg-name=Fox sport tvg-logo=”foxsport.png” group-title=”Astro”, FOX SPORTS
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
-
-#EXTINF:-1 tvg-id=Fox Sport tvg-name=Fox sport tvg-logo=”foxsport.png” group-title=”Astro”, FOX SPORTS 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
-
 ################################################################# Documentary #################################################################
 #EXTINF:-1 tvg-country="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Documentary",Animal Planet HD
 http://89.216.39.29:8001/
