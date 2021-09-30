@@ -471,19 +471,19 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 group-title="Radio" ch-number="Radio - One FM" tvg-chno="Radio - One FM" tvg-name="Radio - One FM" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - Astro Sinar" tvg-chno="Radio - Astro Sinar" tvg-name="Radio - Astro Sinar" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Sinar
+#EXTINF:-1 group-title="Radio" ch-number="Sinar FM" tvg-chno="Radio - Astro Sinar" tvg-name="Radio - Astro Sinar" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Sinar FM
 http://astro2.rastream.com/sinar
 
 #EXTINF:-1 group-title="Radio" ch-number="Era FM" tvg-chno="Radio - Astro Era" tvg-name="Radio - Astro Era" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Era
 http://astro2.rastream.com/era
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - Astro Gegar" tvg-chno="Radio - Astro Gegar" tvg-name="Radio - Astro Gegar" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Gegar
+#EXTINF:-1 group-title="Radio" ch-number="Radio - Astro Gegar" tvg-chno="THR Gegar" tvg-name="Radio - Astro Gegar" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",THR Gegar
 http://astro2.rastream.com/gegar
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - Astro Raaga" tvg-chno="Radio - Astro Raaga" tvg-name="Radio - Astro Raaga" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Raaga
+#EXTINF:-1 group-title="Radio" ch-number="Radio - Astro Raaga" tvg-chno="THR Raaga" tvg-name="Radio - Astro Raaga" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",THR Raaga
 http://astro2.rastream.com/raaga
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - Astro Hitz" tvg-chno="Radio - Astro Hitz" tvg-name="Radio - Astro Hitz" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Hitz
+#EXTINF:-1 group-title="Radio" ch-number="Hitz FM" tvg-chno="Radio - Astro Hitz" tvg-name="Radio - Astro Hitz" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Hitz FM
 http://astro2.rastream.com/hitz
 
 #EXTINF:-1 group-title="Radio" ch-number="Radio - Astro Melody" tvg-chno="Radio - Astro Melody" tvg-name="Radio - Astro Melody" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Melody
