@@ -6,13 +6,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/jengkoil/epg-1/master/sites/astro.com.my.channels.xml"
 
 ################################################################# AstroTV #################################################################
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="Astro",Astro Ria
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="Astro,MalaysiaTV",Astro Ria
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU" tvg-url="" group-title="Astro",Astro Ceria
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU" tvg-url="" group-title="Astro,MalaysiaTV",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" tvg-url="" group-title="Astro",Astro Warna
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" tvg-url="" group-title="Astro,MalaysiaTV",Astro Warna
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxJ9W4ZSIG9nY8BiB8IlCyYYvokYhzhmqEGbQjkrcTQeoZOXw0sV1xCm486gZAcczuw&usqp=CAU" tvg-url="" group-title="Astro",Astro Citra
@@ -24,10 +24,10 @@ rtmp://live.layarku.tv/live/sz=IMN=oasis634543287956387365618946557239573453
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="" tvg-logo="https://newcastlebeach.org/images/prima-logo-6.png" tvg-url="" group-title="Astro",Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroBoo.my" tvg-name="Astro BOO" tvg-country="MY" tvg-language="" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" tvg-url="" group-title="Astro",Astro BOO
+#EXTINF:-1 tvg-id="AstroBoo.my" tvg-name="BOO" tvg-country="MY" tvg-language="" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" tvg-url="" group-title="Astro",BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="Astro HBO" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Astro",Astro HBO
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Astro",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroAOD311.my" tvg-name="Astro AOD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Astro",Astro AOD
@@ -51,7 +51,7 @@ http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport14.png" tvg-url="" group-title="Astro",Astro SuperSport 4
 http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Astro Hello" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Hello_TV.png" tvg-url="" group-title="Astro",Astro Hello
+#EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Hello_TV.png" tvg-url="" group-title="Astro",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
 #EXTINF:-1 tvg-id="AstroWahLaiToi.my" tvg-name="Astro Wah Lai Toi" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" tvg-url="" group-title="Astro",Astro 华丽台 (Astro Wah Lai Toi)
