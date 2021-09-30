@@ -206,23 +206,32 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
 ################################################################# Movies #################################################################
-#EXTINF:-1 tvg-id=Fox 1 HD tvg-name=Fox 1 HD tvg-logo=”fox1.png” group-title=”ASTRO”, FOX 1 HD
+#EXTINF:-1 tvg-id=Fox 1 HD tvg-name=Fox 1 HD tvg-logo=”fox1.png” group-title="Astro", FOX 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
 
-#EXTINF:-1 tvg-id=Fox Action HD tvg-name=Fox Action HD tvg-logo=”foxact.png” group-title=”ASTRO”, FOX ACTION HD
+#EXTINF:-1 tvg-id=Fox Action HD tvg-name=Fox Action HD tvg-logo=”foxact.png” group-title="Astro", FOX ACTION HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
 
-#EXTINF:-1 tvg-id=Fox Movies HD tvg-name=Fox Movies HD tvg-logo=”foxm.png” group-title=”ASTRO”, FOX MOVIES HD
+#EXTINF:-1 tvg-id=Fox Movies HD tvg-name=Fox Movies HD tvg-logo=”foxm.png” group-title="Astro", FOX MOVIES HD
 http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
 
-#EXTINF:-1 tvg-id=ESPN HD tvg-name=ESPN HD tvg-logo=”espn.png” group-title=”ASTRO”, ESPN HD
+#EXTINF:-1 tvg-id=ESPN HD tvg-name=ESPN HD tvg-logo=”espn.png” group-title="Astro", ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
 
-#EXTINF:-1 tvg-id=AXN HD tvg-name=AXN HD tvg-logo=”axnhd.png” group-title=”ASTRO”, AXN HD
+#EXTINF:-1 tvg-id=AXN HD tvg-name=AXN HD tvg-logo=”axnhd.png” group-title="Astro", AXN HD
 http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
 
-#EXTINF:-1 tvg-id=Fox tvg-name=Fox HD tvg-logo=”fox.png” group-title=”ASTRO”, FOX
+#EXTINF:-1 tvg-id=Fox tvg-name=Fox HD tvg-logo=”fox.png” group-title="Astro", FOX
 http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Fox tvg-name="Malaysian Ghost Stories Episode 7" tvg-logo="https://malaytv.live/wp-content/uploads/2021/08/Malaysian-Ghost-Stories-1-310x165.jpg" group-title="Astro", Malaysian Ghost Stories Episode 7
+https://sv1.abc7.su/storage/media/7f46a5bfc065aa863b3742b14d0b8b3c-360.m3u8
+
+#EXTINF:-1 tvg-id=Fox tvg-name="Malaysian Ghost Stories Episode 10" tvg-logo="https://malaytv.live/wp-content/uploads/2021/08/Malaysian-Ghost-Stories-1-310x165.jpg" group-title="Astro", Malaysian Ghost Stories Episode 10
+https://sv1.abc7.su/storage/media/de1cca5e80508ce0001287dcb6cef9a5-360.m3u8
+
+#EXTINF:-1 tvg-id=Fox tvg-name="Malaysian Ghost Stories Episode 18" tvg-logo="https://malaytv.live/wp-content/uploads/2021/08/Malaysian-Ghost-Stories-1-310x165.jpg" group-title="Astro", Malaysian Ghost Stories Episode 18
+https://sv1.abc7.su/storage/media/34215cbbe798f46eadd7150fcb633936-360.m3u8
 
 ################################################################# AsianTV #################################################################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="AsianTV",KBS WORLD HD
