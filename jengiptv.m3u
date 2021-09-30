@@ -444,31 +444,22 @@ https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
 #EXTINF:-1 group-title="Radio" ch-number="705" tvg-id=""Radio - Klasik FM" tvg-chno=""Radio - Klasik FM" tvg-name="Radio - Klasik FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png",Radio Klasik
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
 
-#EXTINF:-1 group-title="Radio" ch-number="706" tvg-id="Radio - Asyik FM" tvg-chno="Radio - Asyik FM" tvg-name="Radio - Asyik FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOASYIKFMLOGO170X96.png",Asyik FM
+#EXTINF:-1 group-title="Radio" ch-number="706" tvg-id="Asyik FM" tvg-chno="Asyik FM" tvg-name="Radio - Asyik FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOASYIKFMLOGO170X96.png",Asyik FM
 https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
 
-#EXTINF:-1 group-title="Radio" ch-number="707" tvg-id="Radio - Sabah FM" tvg-chno="Radio - Sabah FM" tvg-name="Radio - Sabah FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahFM-New.jpg",Sabah FM
-https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" ch-number="708" tvg-id="Radio - Sabah VFM" tvg-chno="Radio - Sabah VFM" tvg-name="Radio - Sabah VFM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahVFM-New.jpg",Sabah VFM
-https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" ch-number="709" tvg-id="Radio - Sarawak FM" tvg-chno="Radio - Sarawak FM" tvg-name="Radio - Sarawak FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SarawakFM-New.jpg",Sarawak FM
-https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" ch-number="710" tvg-id="Radio - Wai FM" tvg-chno="Radio - Wai FM" tvg-name="Radio - Wai FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-WaiFM-New.jpg",Wai FM
+#EXTINF:-1 group-title="Radio" ch-number="710" tvg-id="Wai FM" tvg-chno="Wai FM" tvg-name="Radio - Wai FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-WaiFM-New.jpg",Wai FM
 https://waifmi.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - Hot FM" tvg-chno="Radio - Hot FM" tvg-name="Radio - Hot FM" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
+#EXTINF:-1 group-title="Radio" ch-number="Hot FM" tvg-chno="Hot FM" tvg-name="Hot FM" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - Kool FM" tvg-chno="Radio - Kool FM" tvg-name="Radio - Kool FM" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
+#EXTINF:-1 group-title="Radio" ch-number="Kool FM" tvg-chno="Kool FM" tvg-name="Radio - Kool FM" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - Fly FM" tvg-chno="Radio - Fly FM" tvg-name="Radio - Fly FM" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",Fly FM
+#EXTINF:-1 group-title="Radio" ch-number="Fly FM" tvg-chno="Fly FM" tvg-name="Fly FM" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - One FM" tvg-chno="Radio - One FM" tvg-name="Radio - One FM" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
+#EXTINF:-1 group-title="Radio" ch-number="Radio - One FM" tvg-chno="Radio - One FM" tvg-name="One FM" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
 #EXTINF:-1 group-title="Radio" ch-number="Sinar FM" tvg-chno="Radio - Astro Sinar" tvg-name="Radio - Astro Sinar" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Sinar FM
