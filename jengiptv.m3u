@@ -179,6 +179,35 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u
 #EXTINF:-1 tvg-id="BratTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="Kids",Brat TV
 https://brat-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BumblebeeTVCountryBoyKidsVideo.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",Bumblebee TV Country Boy Kids Video
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BumblebeeTVCuteZone.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/unYHTWg.png" group-title="Kids",Bumblebee TV Cute Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BumblebeeTVFGTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/uRess78.png" group-title="Kids",Bumblebee TV FGTV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BumblebeeTVFunZone.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SfJuMjV.png" group-title="Kids",Bumblebee TV Fun Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BumblebeeTVGiggleZone.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CvbLApY.png" group-title="Kids",Bumblebee TV Giggle Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BumblebeeTVLegoToons.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",Bumblebee TV Lego Toons
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BumblebeeTVLetsPlayMinecraft.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/EqvWDU4.jpg" group-title="Kids",Bumblebee TV Lets Play Minecraft
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVMasterBuilder.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",Bumblebee TV Master Builder
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BumblebeeTVToyZone.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/uRxkOD1.jpg" group-title="Kids",Bumblebee TV Toy Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/t3Jsks7.png" group-title="Kids",Camp Spoopy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
 ################################################################# Movies #################################################################
 
 
