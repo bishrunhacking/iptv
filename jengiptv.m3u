@@ -122,6 +122,9 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="MalaysiaTV",HGTV Asia
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MaahTV.my" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/MRWFcox.jpg" group-title="",Maah TV
+http://51.210.199.33/hls/stream.m3u8
+
 ################################################################# Kids #################################################################
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="Kids", Cartoon Network HD
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
