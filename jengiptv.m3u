@@ -106,7 +106,7 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 #EXTINF:-1 group-title="MalaysiaTV" tvg-id="RTMTVOkey.my" tvg-name="TV Okey" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",RTM TV Okey
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="SukanRTM.my" tvg-country="MY" tvg-language="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tvSUKANlogo_NEW.jpg" group-title="",Sukan RTM
+#EXTINF:-1 tvg-id="SukanRTM.my" tvg-country="MY" tvg-language="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tvSUKANlogo_NEW.jpg" group-title="MalaysiaTV",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8
 
@@ -122,7 +122,7 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="MalaysiaTV",HGTV Asia
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MaahTV.my" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/MRWFcox.jpg" group-title="",Maah TV
+#EXTINF:-1 tvg-id="MaahTV.my" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/MRWFcox.jpg" group-title="MalaysiaTV",Maah TV
 http://51.210.199.33/hls/stream.m3u8
 
 ################################################################# Kids #################################################################
