@@ -1,4 +1,5 @@
 #https://yamcode.com/raw/nasi-campur-iptv-200-channels
+#https://yamcode.com/raw/playlist-malaysia
 #https://raw.githubusercontent.com/jengkoil/epg/master/astro.xml
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/jengkoil/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
