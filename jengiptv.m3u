@@ -123,14 +123,14 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rt
 #EXTINF:-1 tvg-id="ohk.my" tvg-name="Oh!K HD" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" tvg-url="" group-title="MalaysiaTV",Oh!K HD
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="MalaysiaTV",HGTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="MalaysiaTV",HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 ################################################################# Kids #################################################################
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="Kids", Cartoon Network HD
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://www.pngfind.com/pngs/m/296-2965113_94kib-1024x768-splat-nickelodeon-splat-logo-png-transparent.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://www.pngfind.com/pngs/m/296-2965113_94kib-1024x768-splat-nickelodeon-splat-logo-png-transparent.png" group-title="Kids",Nickelodeon HD
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonAustralia.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="Kids",Nickelodeon Australia
