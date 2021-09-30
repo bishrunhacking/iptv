@@ -435,7 +435,7 @@ https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-
 #EXTINF:-1 group-title="Radio" tvg-name="Traxx FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradiotraxxfm.png",Traxx FM
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
 
-#EXTINF:-1 group-title="Radio" tvg-name="Minnal FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIMINNALLOGO170X96.png",Minnal FM
+#EXTINF:-1 group-title="Radio" tvg-name="Minimal FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIMINNALLOGO170X96.png",Minimal FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-name="Ai FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOAIFMLOGO170X96.png",Ai FM
@@ -450,41 +450,41 @@ https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch0
 #EXTINF:-1 group-title="Radio" tvg-name="Wai FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-WaiFM-New.jpg",Wai FM
 https://waifmi.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="Radio" ch-number="Hot FM" tvg-chno="Hot FM" tvg-name="Hot FM" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
+#EXTINF:-1 group-title="Radio" tvg-name="Hot FM" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
 
-#EXTINF:-1 group-title="Radio" ch-number="Kool FM" tvg-chno="Kool FM" tvg-name="Radio - Kool FM" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
+#EXTINF:-1 group-title="Radio" tvg-name="Kool FM" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
-#EXTINF:-1 group-title="Radio" ch-number="Fly FM" tvg-chno="Fly FM" tvg-name="Fly FM" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",Fly FM
+#EXTINF:-1 group-title="Radio" tvg-name="Fly FM" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - One FM" tvg-chno="Radio - One FM" tvg-name="One FM" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
+#EXTINF:-1 group-title="Radio" tvg-name="One FM" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
-#EXTINF:-1 group-title="Radio" ch-number="Sinar FM" tvg-chno="Radio - Astro Sinar" tvg-name="Radio - Astro Sinar" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Sinar FM
+#EXTINF:-1 group-title="Radio" tvg-name="Sinar FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Sinar FM
 http://astro2.rastream.com/sinar
 
-#EXTINF:-1 group-title="Radio" ch-number="Era FM" tvg-chno="Radio - Astro Era" tvg-name="Radio - Astro Era" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Era
+#EXTINF:-1 group-title="Radio" tvg-name=Era FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Era FM
 http://astro2.rastream.com/era
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - Astro Gegar" tvg-chno="THR Gegar" tvg-name="Radio - Astro Gegar" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",THR Gegar
+#EXTINF:-1 group-title="Radio" tvg-name="THR Gegar" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",THR Gegar
 http://astro2.rastream.com/gegar
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - Astro Raaga" tvg-chno="THR Raaga" tvg-name="Radio - Astro Raaga" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",THR Raaga
+#EXTINF:-1 group-title="Radio" tvg-name="THR Raaga" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",THR Raaga
 http://astro2.rastream.com/raaga
 
-#EXTINF:-1 group-title="Radio" ch-number="Hitz FM" tvg-chno="Radio - Astro Hitz" tvg-name="Radio - Astro Hitz" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Hitz FM
+#EXTINF:-1 group-title="Radio" tvg-name="Hitz FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Hitz FM
 http://astro2.rastream.com/hitz
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - Astro Melody" tvg-chno="Radio - Astro Melody" tvg-name="Radio - Astro Melody" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Melody
+#EXTINF:-1 group-title="Radio" tvg-name="Melody FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Melody FM
 http://astro2.rastream.com/melody
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - Astro Mix" tvg-chno="Radio - Astro Mix" tvg-name="Radio - Astro Mix" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Mix
+#EXTINF:-1 group-title="Radio" tvg-name="Mix FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Mix FM
 http://astro2.rastream.com/mix
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - Astro My" tvg-chno="Radio - Astro My" tvg-name="Radio - Astro My" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro My
+#EXTINF:-1 group-title="Radio" tvg-name="My FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",My FM
 http://astro2.rastream.com/myfm
 
-#EXTINF:-1 group-title="Radio" ch-number="Radio - Astro Arena" tvg-chno="Radio - Astro Arena" tvg-name="Radio - Astro Arena" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Arena
+#EXTINF:-1 group-title="Radio" tvg-name="Arena FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Arena FM
 http://astro2.rastream.com/amp-arena
