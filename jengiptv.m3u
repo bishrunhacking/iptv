@@ -335,9 +335,6 @@ http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MotorTV.it" tvg-name="Motor TV" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/muS5HF5.jpg" group-title="",Motor TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title=Knowledge"",ANIMAL PLANET
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-
 #EXTINF:-1 tvg-country="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Knowledge",ANIMAL PLANET HD
 http://89.216.39.29:8001/
 
