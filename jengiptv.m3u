@@ -210,24 +210,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
 ################################################################# Movies #################################################################
-#EXTINF:-1 tvg-id=Fox 1 HD tvg-name=Fox 1 HD tvg-logo=”fox1.png” group-title="Astro", FOX 1 HD
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
-
-#EXTINF:-1 tvg-id=Fox Action HD tvg-name=Fox Action HD tvg-logo=”foxact.png” group-title="Astro", FOX ACTION HD
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
-
-#EXTINF:-1 tvg-id=Fox Movies HD tvg-name=Fox Movies HD tvg-logo=”foxm.png” group-title="Astro", FOX MOVIES HD
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
-
-#EXTINF:-1 tvg-id=ESPN HD tvg-name=ESPN HD tvg-logo=”espn.png” group-title="Astro", ESPN HD
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
-
-#EXTINF:-1 tvg-id=AXN HD tvg-name=AXN HD tvg-logo=”axnhd.png” group-title="Astro", AXN HD
-http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
-
-#EXTINF:-1 tvg-id=Fox tvg-name=Fox HD tvg-logo=”fox.png” group-title="Astro", FOX
-http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
-
 #EXTINF:-1 tvg-id=Fox tvg-name="Malaysian Ghost Stories Episode 7" tvg-logo="https://malaytv.live/wp-content/uploads/2021/08/Malaysian-Ghost-Stories-1-310x165.jpg" group-title="Astro", Malaysian Ghost Stories Episode 7
 https://sv1.abc7.su/storage/media/7f46a5bfc065aa863b3742b14d0b8b3c-360.m3u8
 
@@ -445,23 +427,14 @@ http://210.210.155.35/uq2663/h/h29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="http://masmiri.50webs.com/BBC.png" group-title="News",BBC World News
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://www.azernews.az/media/2018/07/07/300x175/trt_world_070718.png",TRT World
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://i.pinimg.com/originals/08/14/3f/08143f803bf851ad3386e7238e3b7e0e.jpg",Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsEnglishviaAlchimie.fr" tvg-name="Euronews English via Alchimie" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News",Euronews English
-https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="News.id" tvg-name="News" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png" group-title="News",ANTV 
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 
 #EXTINF:-1 tvg-id="onetv.id" tvg-name="News" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://media-origin.kompas.tv/frontend/mobile/images/365x100web.png" group-title="News",Kompas 
 https://youtu.be/8o49U8xAfZ4|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id="onetv.id" tvg-name="TVone" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://cdn.soft112.com/indonesia-tv-one-live/00/00/0F/S7/00000FS7VU/pad_screenshot.png" group-title="News",TVOne 
-https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
 
 ################################################################# Radio #################################################################
 #EXTINF:-1 group-title="Radio" tvg-name="Sinar FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2010/11/Sinar-fm.jpg",Sinar FM
