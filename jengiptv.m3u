@@ -133,6 +133,9 @@ http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" group-title="Kids", Animax
 http://linkme.team:80/live/IPTV123/IPTV123/379787.m3u8
 
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
+http://45.225.204.7:8000/play/a02k
+
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://www.pngfind.com/pngs/m/296-2965113_94kib-1024x768-splat-nickelodeon-splat-logo-png-transparent.png" group-title="Kids",Nickelodeon HD
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
@@ -425,14 +428,11 @@ http://89.216.39.29:8001/
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Documentary",Love Nature 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id=Nat Geo HD tvg-name=National Geographic HD group-title="Astro" tvg-logo=2204956.png, National Geographic HD
-http://202.75.23.35/live/ch38/03.m3u8
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-name="Nat Geo HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Documentary",Nat Geo HD
+http://45.225.204.7:8000/play/a05q
 
-#EXTINF:-1 tvg-id=Nat Geo Wild HD tvg-name=Nat Geo Wild HD group-title="Astro" tvg-logo=5144421.png, Nat Geo Wild HD
-http://202.75.23.35/live/ch39/03.m3u8
-
-#EXTINF:-1 tvg-id=Travel Channel tvg-name=Travel Channel group-title="Astro" tvg-logo=6172282.png, TRAVEL Channel
-http://202.75.23.35:1400/live/ch41/03.m3u8
+#EXTINF:-1 tvg-id="PlanetKnowledge" tvg-name="Planet Knowledge" tvg-country="UK" tvg-language="UK" tvg-logo="https://i.imgur.com/U8GADbT.jpg"  group-title="Documentary",Planet Knowledge
+https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 ################################################################# News #################################################################
 
