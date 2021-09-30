@@ -123,7 +123,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 #EXTINF:-1 group-title="MalaysiaTV" ch-number="Berita RTM" tvg-id="Berita RTM" tvg-chno="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="ohk.my" tvg-name="OneHD" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" tvg-url="" group-title="MalaysiaTV",Oh!K hd
+#EXTINF:-1 tvg-id="ohk.my" tvg-name="Oh!K HD" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" tvg-url="" group-title="MalaysiaTV",Oh!K HD
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="MalaysiaTV",HGTV
@@ -215,7 +215,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="AsianTV",KBS WORLD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
-#EXTINF:-1 tvg-id="one.my" tvg-name="OneHD" tvg-country="MY" tvg-language="" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" tvg-url="" group-title="AsianTV",One HD
+#EXTINF:-1 tvg-id="one.my" tvg-name="One HD" tvg-country="MY" tvg-language="" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" tvg-url="" group-title="AsianTV",One HD
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM.jpg" tvg-url="" group-title="AsianTV", Kpop TV
