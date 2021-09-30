@@ -30,6 +30,15 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" tvg-url="" group-title="Malaysia",Astro Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Astro Hello" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Hello_TV.png" tvg-url="" group-title="Malaysia",Astro Hello
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="Astro Naura" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Naura_HD.png" tvg-url="" group-title="Malaysia",Astro Naura
+http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroBoo.my" tvg-name="Astro BOO" tvg-country="MY" tvg-language="" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" tvg-url="" group-title="Malaysia",Astro BOO
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="Malaysia",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
@@ -147,7 +156,7 @@ http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 #EXTINF:-1 tvg-id="Sony Max" tvg-name="Sony Max" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="",Sony Max
 https://bit.ly/3BZ7uK5
 
-#EXTINF:-1 group-title=INDIA tvg-logo=https://tellyshowupdates.com/wp-content/uploads/2018/03/38322_1_home_big-2.jpg, &Pictures HD
+#EXTINF:-1 group-title=INDIA tvg-logo=https://tellyshowupdates.com/wp-content/uploads/2018/03/38322_1_home_big-2.jpg, Pictures HD
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title=MOVIES, Flix HD
@@ -768,71 +777,98 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
 
 ################################################################################################################################################################
 #Freeview
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-name="Drama Sangat" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="Drama Sangat" tvg-chno="Drama Sangat" tvg-name="Drama Sangat" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-name="DidikTV KPM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="DidikTV KPM" tvg-chno="DidikTV KPM" tvg-name="DidikTV KPM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-name="OKEY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="110" tvg-id="OKEY" tvg-chno="OKEY" tvg-name="OKEY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="111" tvg-id="Sukan RTM"" tvg-chno="Sukan RTM"" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-name="TV6" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="113" tvg-id="TV6" tvg-chno="TV6" tvg-name="TV6" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-name="GO Shop MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="GO Shop MYTV"" tvg-id="GO Shop MYTV" tvg-chno="GO Shop MYTV" tvg-name="GO Shop MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-name="Bernama TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="Bernama TV" tvg-id="Bernama TV" tvg-chno="Bernama TV" tvg-name="Bernama TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
 https://weareblahs.github.io/yttestlabs/youtube.m3u
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-name="TVS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="TVS" tvg-id="TVS" tvg-chno="TVS" tvg-name="TVS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-name="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="Berita RTM" tvg-id="Berita RTM" tvg-chno="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-name="Radio - Nasional FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="Radio - Nasional FM" tvg-id="701" tvg-chno="Radio - Nasional FM" tvg-name="Radio - Nasional FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-name="Radio - Traxx FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradiotraxxfm.png",Traxx FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="702" tvg-id=""Radio - Traxx FM" tvg-chno=""Radio - Traxx FM" tvg-name="Radio - Traxx FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradiotraxxfm.png",Traxx FM
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="703" tvg-id="703" tvg-chno="703" tvg-name="Radio - Minnal FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIMINNALLOGO170X96.png",Minnal FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="703" tvg-id="Radio - Minnal FM" tvg-chno="Radio - Minnal FM" tvg-name="Radio - Minnal FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIMINNALLOGO170X96.png",Minnal FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="704" tvg-id="704" tvg-chno="704" tvg-name="Radio - Ai FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOAIFMLOGO170X96.png",Ai FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="704" tvg-id="Radio - Ai FM" tvg-chno="Radio - Ai FM" tvg-name="Radio - Ai FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOAIFMLOGO170X96.png",Ai FM
 https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-name="Radio - Klasik FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png",Radio Klasik
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="705" tvg-id=""Radio - Klasik FM" tvg-chno=""Radio - Klasik FM" tvg-name="Radio - Klasik FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png",Radio Klasik
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="706" tvg-id="706" tvg-chno="706" tvg-name="Radio - Asyik FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOASYIKFMLOGO170X96.png",Asyik FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="706" tvg-id="Radio - Asyik FM" tvg-chno="Radio - Asyik FM" tvg-name="Radio - Asyik FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOASYIKFMLOGO170X96.png",Asyik FM
 https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="707" tvg-id="707" tvg-chno="707" tvg-name="Radio - Sabah FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahFM-New.jpg",Sabah FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="707" tvg-id="Radio - Sabah FM" tvg-chno="Radio - Sabah FM" tvg-name="Radio - Sabah FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahFM-New.jpg",Sabah FM
 https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="708" tvg-id="708" tvg-chno="708" tvg-name="Radio - Sabah VFM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahVFM-New.jpg",Sabah VFM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="708" tvg-id="Radio - Sabah VFM" tvg-chno="Radio - Sabah VFM" tvg-name="Radio - Sabah VFM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahVFM-New.jpg",Sabah VFM
 https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="709" tvg-id="709" tvg-chno="709" tvg-name="Radio - Sarawak FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SarawakFM-New.jpg",Sarawak FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="709" tvg-id="Radio - Sarawak FM" tvg-chno="Radio - Sarawak FM" tvg-name="Radio - Sarawak FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SarawakFM-New.jpg",Sarawak FM
 https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="710" tvg-id="710" tvg-chno="710" tvg-name="Radio - Wai FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-WaiFM-New.jpg",Wai FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="710" tvg-id="Radio - Wai FM" tvg-chno="Radio - Wai FM" tvg-name="Radio - Wai FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-WaiFM-New.jpg",Wai FM
 https://waifmi.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="721" tvg-chno="721" tvg-name="Radio - Hot FM" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="Radio - Hot FM" tvg-chno="Radio - Hot FM" tvg-name="Radio - Hot FM" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="722" tvg-chno="722" tvg-name="Radio - Kool FM" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="Radio - Kool FM" tvg-chno="Radio - Kool FM" tvg-name="Radio - Kool FM" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="723" tvg-name="Radio - Fly FM" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",Fly FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="Radio - Fly FM" tvg-chno="Radio - Fly FM" tvg-name="Radio - Fly FM" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-name="Radio - One FM" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="Radio - One FM" tvg-chno="Radio - One FM" tvg-name="Radio - One FM" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 group-title="Astro Broadcasting: Radio" ch-number="Radio - Astro Sinar" tvg-chno="Radio - Astro Sinar" tvg-name="Radio - Astro Sinar" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Sinar
+http://astro2.rastream.com/sinar
+
+#EXTINF:-1 group-title="Astro Broadcasting: Radio" ch-number="Radio - Astro Era" tvg-chno="Radio - Astro Era" tvg-name="Radio - Astro Era" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Era
+http://astro2.rastream.com/era
+
+#EXTINF:-1 group-title="Astro Broadcasting: Radio" ch-number="Radio - Astro Gegar" tvg-chno="Radio - Astro Gegar" tvg-name="Radio - Astro Gegar" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Gegar
+http://astro2.rastream.com/gegar
+
+#EXTINF:-1 group-title="Astro Broadcasting: Radio" ch-number="Radio - Astro Raaga" tvg-chno="Radio - Astro Raaga" tvg-name="Radio - Astro Raaga" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Raaga
+http://astro2.rastream.com/raaga
+
+#EXTINF:-1 group-title="Astro Broadcasting: Radio" ch-number="Radio - Astro Hitz" tvg-chno="Radio - Astro Hitz" tvg-name="Radio - Astro Hitz" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Hitz
+http://astro2.rastream.com/hitz
+
+#EXTINF:-1 group-title="Astro Broadcasting: Radio" ch-number="Radio - Astro Melody" tvg-chno="Radio - Astro Melody" tvg-name="Radio - Astro Melody" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Melody
+http://astro2.rastream.com/melody
+
+#EXTINF:-1 group-title="Astro Broadcasting: Radio" ch-number="Radio - Astro Mix" tvg-chno="Radio - Astro Mix" tvg-name="Radio - Astro Mix" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Mix
+http://astro2.rastream.com/mix
+
+#EXTINF:-1 group-title="Astro Broadcasting: Radio" ch-number="Radio - Astro My" tvg-chno="Radio - Astro My" tvg-name="Radio - Astro My" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro My
+http://astro2.rastream.com/myfm
+
+#EXTINF:-1 group-title="Astro Broadcasting: Radio" ch-number="Radio - Astro Arena" tvg-chno="Radio - Astro Arena" tvg-name="Radio - Astro Arena" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Astro Arena
+http://astro2.rastream.com/amp-arena
