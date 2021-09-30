@@ -457,7 +457,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmkl
 #EXTINF:-1 group-title="MYTV" ch-number="GO Shop MYTV"" tvg-id="GO Shop MYTV" tvg-chno="GO Shop MYTV" tvg-name="GO Shop MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="TVS" tvg-id="TVS" tvg-chno="TVS" tvg-name="TVS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
+#EXTINF:-1 group-title="MYTV" ch-number="TVS" tvg-id="TVS" tvg-chno="TVS" tvg-name="TVS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="Berita RTM" tvg-id="Berita RTM" tvg-chno="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
@@ -496,7 +496,7 @@ https://waifmi.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8|Referer=
 #EXTINF:-1 group-title="Radio" ch-number="Radio - Hot FM" tvg-chno="Radio - Hot FM" tvg-name="Radio - Hot FM" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="Radio - Kool FM" tvg-chno="Radio - Kool FM" tvg-name="Radio - Kool FM" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
+#EXTINF:-1 group-title="Radio" ch-number="Radio - Kool FM" tvg-chno="Radio - Kool FM" tvg-name="Radio - Kool FM" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
 #EXTINF:-1 group-title="Radio" ch-number="Radio - Fly FM" tvg-chno="Radio - Fly FM" tvg-name="Radio - Fly FM" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",Fly FM
