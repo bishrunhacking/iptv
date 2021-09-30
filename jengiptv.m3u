@@ -258,18 +258,6 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" tvg-country="TH" tvg-language="Thai" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" group-title="ThaiTV",Channel 8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-logo="http://thaiip.tv/tvlogo2/29.png" group-title="ThaiTV",MONO29 HD
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-
-#EXTINF:-1 tvg-id="28" tvg-logo="http://thaiip.tv/tvlogo2/30.png" group-title="ThaiTV",MCOT HD 30
-https://tc-live1.sanook.com/live/22302_ch9.m3u8
-
-#EXTINF:-1 tvg-id="30" tvg-logo="http://thaiip.tv/tvlogo2/32.png" group-title="ThaiTV",Thairath 32
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="23" tvg-logo="http://thaiip.tv/tvlogo2/23.png" group-title="ThaiTV",WORK POINT 23
-http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8
-
 ################################################################# BollywoodTV #################################################################
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhYDGfVQtUK6TgcgnmbF37iGtg75_ZCmcR5EmoJ4QU7lKhNJBWTasgLsUHA_Nk-P54IF4&usqp=CAU" group-title="BollywoodTV",Color HD
 https://bit.ly/3lidjf4
@@ -286,9 +274,6 @@ https://bit.ly/3ttJFa6
 #EXTINF:-1 tvg-id="StarPlusHD.in" tvg-name="Star Plus HD" tvg-country="IN" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="BollywoodTV",Star PlusHD
 https://bit.ly/3nhpLhH
 
-#EXTINF:-1 tvg-id="Zing.in" tvg-name="Zing" tvg-country="IN" tvg-language="" tvg-logo="https://www.indianetzone.com/photos_gallery/86/Zee_Music_Indian_Music_Channel_1.jpg" group-title="BollywoodTV",Zing TV 
-https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ZeeWorld.in" tvg-name="Zee World" tvg-country="IN" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeUARtO6soJKjE7nu_KrsBcTU2_wk3_G7dcar1jcT4L6mwWXw4BvRB0sS9gkcofc2xUic&usqp=CAU" group-title="BollywoodTV",Zee World
 https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
 
@@ -298,8 +283,6 @@ https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5tgFmtx9WzvA6xTMeuQoSRpXv9zLH_kV0g&usqp=CAU" group-title="BollywoodTV", ZEE Actions
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="BollywoodTV",ZeeBioskop
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Max" tvg-name="Sony Max" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="BollywoodTV",Sony Max
 https://bit.ly/3BZ7uK5
