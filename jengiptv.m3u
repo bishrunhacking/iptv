@@ -379,9 +379,6 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-id="News.id" tvg-name="News" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png" group-title="News",ANTV 
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 
-#EXTINF:-1 tvg-id="onetv.id" tvg-name="News" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://media-origin.kompas.tv/frontend/mobile/images/365x100web.png" group-title="News",Kompas 
-https://youtu.be/8o49U8xAfZ4|Referer=https://www.youtube.com
-
 
 
 
@@ -410,7 +407,6 @@ http://astro2.rastream.com/mix
 
 #EXTINF:-1 group-title="Radio" tvg-name="My FM" tvg-logo="https://www.fmradioslive.com/wp-content/uploads/2013/04/My-FM-Malaysia-Logo.jpg",My FM
 http://astro2.rastream.com/myfm
-#EXTINF:-1 group-title="Radio" tvg-name="Ai FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOAIFMLOGO170X96.png",Ai FM
 
 #EXTINF:-1 group-title="Radio" tvg-name="Klasik FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png",Klasik FM
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
