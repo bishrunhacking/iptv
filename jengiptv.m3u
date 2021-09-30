@@ -429,6 +429,36 @@ https://youtu.be/8o49U8xAfZ4|Referer=https://www.youtube.com
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
 
 ################################################################# Radio #################################################################
+#EXTINF:-1 group-title="Radio" tvg-name="Sinar FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2010/11/Sinar-fm.jpg",Sinar FM
+http://astro2.rastream.com/sinar
+
+#EXTINF:-1 group-title="Radio" tvg-name=Era FM" tvg-logo="https://freepikpsd.com/media/2019/10/era-fm-logo-png-1-Transparent-Images.png",Era FM
+http://astro2.rastream.com/era
+
+#EXTINF:-1 group-title="Radio" tvg-name="Hot FM" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 group-title="Radio" tvg-name="THR Gegar" tvg-logo="https://www.freeradiotune.com/wp-content/uploads/2016/03/thr-gegar.png",THR Gegar
+http://astro2.rastream.com/gegar
+
+#EXTINF:-1 group-title="Radio" tvg-name="THR Raaga" tvg-logo="https://allliveradio.com/wp-content/uploads/2018/06/raaga.png",THR Raaga
+http://astro2.rastream.com/raaga
+
+#EXTINF:-1 group-title="Radio" tvg-name="Hitz FM" tvg-logo="https://i1.sndcdn.com/artworks-000268161680-zxf5ji-t500x500.jpg",Hitz FM
+http://astro2.rastream.com/hitz
+
+#EXTINF:-1 group-title="Radio" tvg-name="Melody FM" tvg-logo="https://lh3.googleusercontent.com/proxy/NCxydZfjGGaydnEXfdcFZ1O3e9aZcU1sGwy4ta6nPHety6_X0H76nB8cd63txnKaAj8mtMZDTlqXAB9tprchL2k28ijiGQEKuE7T8oDYdktACYYOqKQI0FJtwAk",Melody FM
+http://astro2.rastream.com/melody
+
+#EXTINF:-1 group-title="Radio" tvg-name="Mix FM" tvg-logo="https://images.radiovolna.net/_files/images/stations/405550/pujz5a4def05561f3976474369.jpg",Mix FM
+http://astro2.rastream.com/mix
+
+#EXTINF:-1 group-title="Radio" tvg-name="My FM" tvg-logo="https://www.fmradioslive.com/wp-content/uploads/2013/04/My-FM-Malaysia-Logo.jpg",My FM
+http://astro2.rastream.com/myfm
+
+#EXTINF:-1 group-title="Radio" tvg-name="Arena FM" tvg-logo="https://lh3.googleusercontent.com/proxy/gU7AEQTjCRxGucbkwBlLkzOQfJf2QtyQxolEvuvMsMuwvr6HDXOEH_ZzQ_XHsJw3TTMn_odO_JrHzi-SPSho6OI4xPz_G7lPqjeITdJR3z_5XBvIWBbUpBJ0jAHOniHxxU5qdFiq-imZStnoXQ=w1200-h630-p-k-no-nu",Arena FM
+http://astro2.rastream.com/amp-arena
+
 #EXTINF:-1 group-title="Radio" tvg-name="Nasional FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
 
@@ -450,9 +480,6 @@ https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch0
 #EXTINF:-1 group-title="Radio" tvg-name="Wai FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-WaiFM-New.jpg",Wai FM
 https://waifmi.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="Radio" tvg-name="Hot FM" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
-https://mediaprima.rastream.com/mediaprima-hotfm
-
 #EXTINF:-1 group-title="Radio" tvg-name="Kool FM" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
@@ -461,30 +488,3 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 
 #EXTINF:-1 group-title="Radio" tvg-name="One FM" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
-
-#EXTINF:-1 group-title="Radio" tvg-name="Sinar FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Sinar FM
-http://astro2.rastream.com/sinar
-
-#EXTINF:-1 group-title="Radio" tvg-name=Era FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Era FM
-http://astro2.rastream.com/era
-
-#EXTINF:-1 group-title="Radio" tvg-name="THR Gegar" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",THR Gegar
-http://astro2.rastream.com/gegar
-
-#EXTINF:-1 group-title="Radio" tvg-name="THR Raaga" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",THR Raaga
-http://astro2.rastream.com/raaga
-
-#EXTINF:-1 group-title="Radio" tvg-name="Hitz FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Hitz FM
-http://astro2.rastream.com/hitz
-
-#EXTINF:-1 group-title="Radio" tvg-name="Melody FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Melody FM
-http://astro2.rastream.com/melody
-
-#EXTINF:-1 group-title="Radio" tvg-name="Mix FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Mix FM
-http://astro2.rastream.com/mix
-
-#EXTINF:-1 group-title="Radio" tvg-name="My FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",My FM
-http://astro2.rastream.com/myfm
-
-#EXTINF:-1 group-title="Radio" tvg-name="Arena FM" tvg-logo="http://img.astroawani.com/2013-05/71368711632_295x200.jpg",Arena FM
-http://astro2.rastream.com/amp-arena
