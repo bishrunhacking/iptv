@@ -372,15 +372,6 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu World 
-
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
-
-#EXTINF:-1 tvg-id="jktglobenews" tvg-logo="http://tvtolive.com/wp-content/uploads/Jakarta-Globe-News-Channel-tvtolive.com_.jpg" group-title="Indonesia",JAKARTA GLOBE NEWS
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8?ssrcb=eroz_brebes.m3u8
-
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Inews.png" group-title="News",iNews 
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="https://pbs.twimg.com/media/D21XsMSUcAA12NQ.jpg" tvg-logo="https://www.fmradioslive.com/wp-content/uploads/2013/01/TVRI-TV-Indonesia-Logo1.jpeg" group-title="",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
