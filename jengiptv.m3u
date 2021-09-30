@@ -421,23 +421,9 @@ https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perju
 #EXTINF:-1 tvg-id="RCTI" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2mEjfgjUCK9J3fAzCkyXlVMSu0myMSS4F0Q&usqp=CAU" group-title="IndoTV",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 
-#EXTINF:-1 tvg-name=Daai TV ID tvg-logo=https://i.ibb.co/d0GbGhj/daiitvlogo.png group-title=LOCAL,DAAI大愛 General
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: EWTN" tvg-logo="https://static.epg.best/us/EWTN.us.png" group-title="", EWTN Asia
-https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://image.roku.com/developer_channels/prod/8432f7becc7755f9a82361097f7a62d8c25b270c203565484c583dc0c2d69115.png" group-title="",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="walk" tvg-name="live" tvg-country="ID" tvg-language="" tvg-logo="https://i.ytimg.com/vi/GRkMquHRafk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDZP9xQOWUqLhiVK8ATIll3TwrjKQ" group-title="live",Japan Walk 24/7 
-https://www.youtube.com/c/makimakiwalk/featured|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id="walk" tvg-name="live" tvg-country="ID" tvg-language="" tvg-logo="https://i.ytimg.com/vi/WvRFXBEtf9k/hqdefault_live.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7abkJ-QCiritMSvcor-VDLWc78Q" group-title="",Korea walk
-https://www.youtube.com/channel/UCSkaixM5p8mYuBIdy2J0ZHw|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id="onetv.id" tvg-name="live" tvg-country="ID" tvg-language="" tvg-logo="https://i.ytimg.com/vi/9P1r57NrPK8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCBAnjQCDmCrE0plb-qIfL2jL9ClA" group-title="",Jakartka Walk 
-https://www.youtube.com/playlist?list=PL5lkd9tXNDY4Fv7bdRDDhp_npf_AqD6vN|Referer=https://www.youtube.com
 
 
 ################################################################################################################################################################
