@@ -27,6 +27,9 @@ http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU" tvg-url="" group-title="Malaysia",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" tvg-url="" group-title="Malaysia",Astro Warna
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="Malaysia",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
