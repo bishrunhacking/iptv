@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
-################################################################# AstroTV #################################################################
+
+# AstroTV
+
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="Astro",Astro Ria
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
@@ -60,7 +62,11 @@ http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil HD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Astro",Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
-################################################################# MalaysiaTV #################################################################
+
+
+
+# MalaysiaTV
+
 #EXTINF:-1 tvg-id="RTMTV1.my" tvg-name="TV1 HD" tvg-country="MY" tvg-language="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="MalaysiaTV",RTM TV 1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
@@ -124,7 +130,10 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-id="MaahTV.my" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/MRWFcox.jpg" group-title="MalaysiaTV",Maah TV
 http://51.210.199.33/hls/stream.m3u8
 
-################################################################# Kids #################################################################
+
+
+# Kids
+
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.us" tvg-country="ASIA" tvg-language="English" tvg-logo="" group-title="Kids",Cartoon Network Asia
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 
@@ -184,7 +193,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="Kids",Galxy TV
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
-################################################################# VOD #################################################################
+
+
+# VOD
+
 #EXTINF:-1 tvg-id=Fox tvg-name="Malaysian Ghost Stories Episode 7" tvg-logo="https://malaytv.live/wp-content/uploads/2021/08/Malaysian-Ghost-Stories-1-310x165.jpg" group-title="Astro", Malaysian Ghost Stories Episode 7
 https://sv1.abc7.su/storage/media/7f46a5bfc065aa863b3742b14d0b8b3c-360.m3u8
 
@@ -194,7 +206,12 @@ https://sv1.abc7.su/storage/media/de1cca5e80508ce0001287dcb6cef9a5-360.m3u8
 #EXTINF:-1 tvg-id=Fox tvg-name="Malaysian Ghost Stories Episode 18" tvg-logo="https://malaytv.live/wp-content/uploads/2021/08/Malaysian-Ghost-Stories-1-310x165.jpg" group-title="Astro", Malaysian Ghost Stories Episode 18
 https://sv1.abc7.su/storage/media/34215cbbe798f46eadd7150fcb633936-360.m3u8
 
-################################################################# AsianTV #################################################################
+
+
+
+
+# AsianTV
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="AsianTV",KBS WORLD HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
@@ -210,7 +227,11 @@ http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id=" " group-title="AsianTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
-################################################################# ThaiTV #################################################################
+
+
+
+# ThaiTV
+
 #EXTINF:-1 tvg-id="Channel7.th" tvg-name="Channel 7" tvg-country="TH" tvg-language="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="ThaiTV",Channel 7
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
 
@@ -220,7 +241,12 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" tvg-country="TH" tvg-language="Thai" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" group-title="ThaiTV",Channel 8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
-################################################################# BollywoodTV #################################################################
+
+
+
+
+# BollywoodTV
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhYDGfVQtUK6TgcgnmbF37iGtg75_ZCmcR5EmoJ4QU7lKhNJBWTasgLsUHA_Nk-P54IF4&usqp=CAU" group-title="BollywoodTV",Color HD
 https://bit.ly/3lidjf4
 
@@ -249,7 +275,12 @@ https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony Max" tvg-name="Sony Max" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="BollywoodTV",Sony Max
 https://bit.ly/3BZ7uK5
 
-################################################################# IndoTV #################################################################
+
+
+
+
+# IndoTV 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="https://pbs.twimg.com/media/D21XsMSUcAA12NQ.jpg" tvg-logo="https://www.fmradioslive.com/wp-content/uploads/2013/01/TVRI-TV-Indonesia-Logo1.jpeg" group-title="IndoTV",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
@@ -274,7 +305,12 @@ https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perju
 #EXTINF:-1 tvg-id="RCTI" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2mEjfgjUCK9J3fAzCkyXlVMSu0myMSS4F0Q&usqp=CAU" group-title="IndoTV",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 
-################################################################# General #################################################################
+
+
+
+
+# General
+
 #EXTINF:-1 tvg-id="Thrill.My" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-url="" group-title="General", Thrill
 http://50.7.161.82:8278/streams/d/thrill_pye/playlist.m3u8 
 
@@ -284,7 +320,11 @@ http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/id/AXN.id.png" tvg-url="" group-title="General",AXN HD
 http://45.225.204.7:8000/play/a05e
 
-################################################################# Sports #################################################################
+
+
+
+# Sports
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aemny9A.jpg" group-title="Sports", GOLF CHANNEL edge
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 
@@ -306,7 +346,12 @@ http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",BeIN 4
 http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 
-################################################################# Documentary #################################################################
+
+
+
+
+# Documentary
+
 #EXTINF:-1 tvg-country="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Documentary",Animal Planet HD
 http://89.216.39.29:8001/
 
@@ -316,7 +361,10 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Documentary",National Geographic Wild
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 
-################################################################# News #################################################################
+
+
+
+# News
 
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
 #https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -334,7 +382,11 @@ https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.
 #EXTINF:-1 tvg-id="onetv.id" tvg-name="News" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://media-origin.kompas.tv/frontend/mobile/images/365x100web.png" group-title="News",Kompas 
 https://youtu.be/8o49U8xAfZ4|Referer=https://www.youtube.com
 
-################################################################# Radio #################################################################
+
+
+
+
+# Radio
 #EXTINF:-1 group-title="Radio" tvg-name="Sinar FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2010/11/Sinar-fm.jpg",Sinar FM
 http://astro2.rastream.com/sinar
 
