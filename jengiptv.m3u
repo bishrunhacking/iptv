@@ -30,11 +30,8 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="Astro HBO" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Astro",Astro HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroAOD311.my" tvg-name="Astro AOD Malay" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Astro",Astro AOD Malay
+#EXTINF:-1 tvg-id="AstroAOD311.my" tvg-name="Astro AOD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Astro",Astro AOD
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroAOD311.my" tvg-name="Astro AOD EN" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Astro",Astro AOD En
-http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro Quan Jia HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" tvg-url="" group-title="Astro",Astro Quan Jia HD
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
