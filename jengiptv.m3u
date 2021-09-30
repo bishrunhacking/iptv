@@ -194,9 +194,6 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:0 tvg-name="Design Network" tvg-language="English" tvg-country="MY" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuD_S0_20ac07FrdsaaFrG3YxWChqneRSUw&usqp=CAU" group-title="MYTV", Design Network
 https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png group-title="Movies", Flix chinese sub
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="Kids", Cartoon Network 
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 
