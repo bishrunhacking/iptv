@@ -96,10 +96,10 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="MalaysiaTV", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroBoo.my" tvg-name="BOO" tvg-country="MY" tvg-language="" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" tvg-url="" group-title="MalaysiaTV",BOO HD
+#EXTINF:-1 tvg-id="AstroBoo.my" tvg-name="BOO HD" tvg-country="MY" tvg-language="" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" tvg-url="" group-title="MalaysiaTV",BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="MalaysiaTV",HBO HD
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO HD" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="MalaysiaTV",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="MalaysiaTV",Naura SD
