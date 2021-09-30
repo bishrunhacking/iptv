@@ -45,9 +45,6 @@ http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport14.png" tvg-url="" group-title="Astro",Astro SuperSport 4
 http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Hello_TV.png" tvg-url="" group-title="Astro",Hello
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
-
 #EXTINF:-1 tvg-id="AstroWahLaiToi.my" tvg-name="Astro Wah Lai Toi" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" tvg-url="" group-title="Astro",Astro 华丽台 (Astro Wah Lai Toi)
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 
@@ -99,14 +96,17 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="MalaysiaTV", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroBoo.my" tvg-name="BOO" tvg-country="MY" tvg-language="" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" tvg-url="" group-title="MalaysiaTV",BOO
+#EXTINF:-1 tvg-id="AstroBoo.my" tvg-name="BOO" tvg-country="MY" tvg-language="" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" tvg-url="" group-title="MalaysiaTV",BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="MalaysiaTV",HBO
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="MalaysiaTV",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="MalaysiaTV",Naura SD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Hello_TV.png" tvg-url="" group-title="Astro",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
 #EXTINF:-1 group-title="MalaysiaTV" ch-number="110" tvg-id="OKEY" tvg-chno="OKEY" tvg-name="OKEY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
