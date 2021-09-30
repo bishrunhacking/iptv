@@ -201,6 +201,40 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/t3Jsks7.png" group-title="Kids",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
+#EXTINF:-1 tvg-id="" tvg-name="Spacetoon" tvg-logo="" group-title="Kids",Spacetoon
+http://forsat.men:8888/merpatistream/merpati99/1541
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="" group-title="Kids",Baby First
+http://forsat.men:8888/merpatistream/merpati99/1204
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="" group-title="Kids",Dunia Anak
+http://forsat.men:8888/merpatistream/merpati99/907
+#EXTINF:-1 tvg-id="" tvg-name="Toonmax" tvg-logo="" group-title="Kids",Toonmax
+http://forsat.men:8888/merpatistream/merpati99/1116
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="Disney XD" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/getpubliccontent?contentId=01ea7e32-190e-4088-99af-ef9842773879" group-title="Kids",Disney XD
+http://forsat.men:8888/merpatistream/merpati99/104
+#EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="" group-title="Kids",Disney UK
+http://forsat.men:8888/merpatistream/merpati99/2336
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="Kids",Duck TV
+http://forsat.men:8888/merpatistream/merpati99/1854
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nick Toons" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/f/fe/Nicktoons_SPLAT%21.PNG/revision/latest?cb=20171006010144" group-title="Kids",Nick Toons
+http://forsat.men:8888/merpatistream/merpati99/335
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon ID
+http://forsat.men:8888/merpatistream/merpati99/962
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="Kids",Nick Jr ID
+http://forsat.men:8888/merpatistream/merpati99/522
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
+http://forsat.men:8888/merpatistream/merpati99/306
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel ID
+http://forsat.men:8888/merpatistream/merpati99/3479
+#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network ID HD
+http://forsat.men:8888/merpatistream/merpati99/680
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://yt3.ggpht.com/a-/AJLlDp3iSf8EJ-cop8fRkxIKeU7JnMJvDtLWjbsKlA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Kids",Boomerang
+http://forsat.men:8888/merpatistream/merpati99/305
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://4.bp.blogspot.com/_WEmgbnumRFY/SO9bwY05QtI/AAAAAAAAGsY/EALyb7B2MVk/s400/Baby_tv.jpg" group-title="Kids",Baby TV
+http://forsat.men:8888/merpatistream/merpati99/296
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Nick-jr-2-logo-i1.png/revision/latest?cb=20161111232146" group-title="Kids",Nick Jr 2
+http://forsat.men:8888/merpatistream/merpati99/341
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="Disney Junior" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/disney-jr-post.jpg" group-title="Kids",Disney Junior
+http://forsat.men:8888/merpatistream/merpati99/213
 ################################################################# Movies #################################################################
 
 
