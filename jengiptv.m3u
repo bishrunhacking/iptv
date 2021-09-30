@@ -81,7 +81,7 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-#EXTINF:-1 group-title="MalaysiaTV" ch-number="DidikTV KPM" tvg-id="DidikTV KPM" tvg-chno="DidikTV KPM" tvg-name="DidikTV KPM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+#EXTINF:-1 group-title="MalaysiaTV" ch-number="NTV7" tvg-id="NTV7" tvg-chno="DidikTV KPM" tvg-name="DidikTV KPM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",NTV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="MalaysiaTV",8TV
