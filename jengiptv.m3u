@@ -19,7 +19,7 @@ http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png" tvg-url="" group-title="Astro",Astro Oasis HD
-rtmp://live.layarku.tv/live/sz=IMN=oasis634543287956387365618946557239573453
+http://linkme.team:80/live/IPTV123/IPTV123/379781.m3u8
 
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima HD" tvg-country="MY" tvg-language="" tvg-logo="https://newcastlebeach.org/images/prima-logo-6.png" tvg-url="" group-title="Astro",Astro Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
