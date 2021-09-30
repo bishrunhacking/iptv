@@ -369,7 +369,7 @@ http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8?checkedby
 #EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/FIzME5L.jpg" group-title="AsiaTV",YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK World Japan
+#EXTINF:-1 tvg-id=" " group-title="AsiaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 
