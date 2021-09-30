@@ -488,9 +488,6 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmkl
 #EXTINF:-1 group-title="MYTV" ch-number="GO Shop MYTV"" tvg-id="GO Shop MYTV" tvg-chno="GO Shop MYTV" tvg-name="GO Shop MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
-#EXTINF:-1 group-title="MYTV" ch-number="Bernama TV" tvg-id="Bernama TV" tvg-chno="Bernama TV" tvg-name="Bernama TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
-https://weareblahs.github.io/yttestlabs/youtube.m3u
-
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="TVS" tvg-id="TVS" tvg-chno="TVS" tvg-name="TVS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
