@@ -206,6 +206,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="Kids",Galxy TV
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon HD
+http://listaiptv.brcs.ml:8080/SD_NICKELODEON/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
 ################################################################# Movies #################################################################
 #EXTINF:-1 tvg-id=Fox tvg-name="Malaysian Ghost Stories Episode 7" tvg-logo="https://malaytv.live/wp-content/uploads/2021/08/Malaysian-Ghost-Stories-1-310x165.jpg" group-title="Astro", Malaysian Ghost Stories Episode 7
 https://sv1.abc7.su/storage/media/7f46a5bfc065aa863b3742b14d0b8b3c-360.m3u8
