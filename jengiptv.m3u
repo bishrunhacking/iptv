@@ -75,20 +75,11 @@ http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" tvg-url="" group-title="Astro",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
-#EXTINF:-1 tvg-id="412" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" tvg-name="Astro Cinemax" group-title="Astro",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil HD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Astro",Astro Vaanavil HD
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-name="Astro HBO Family" group-title="Astro",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="Astro HBO Hits" group-title="Astro",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="Astro HBO Signature" group-title="Astro",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-
-#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="Astro",Naura SD
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil SD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Astro",Astro Vaanavil SD
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
 ################################################################# MYTV #################################################################
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="MYTV",TV1
@@ -114,6 +105,9 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="MYTV", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="MYTV",Naura SD
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="110" tvg-id="OKEY" tvg-chno="OKEY" tvg-name="OKEY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
