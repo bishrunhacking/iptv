@@ -206,7 +206,23 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
 ################################################################# Movies #################################################################
+#EXTINF:-1 tvg-id=Fox 1 HD tvg-name=Fox 1 HD tvg-logo=”fox1.png” group-title=”ASTRO”, FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
 
+#EXTINF:-1 tvg-id=Fox Action HD tvg-name=Fox Action HD tvg-logo=”foxact.png” group-title=”ASTRO”, FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Fox Movies HD tvg-name=Fox Movies HD tvg-logo=”foxm.png” group-title=”ASTRO”, FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=ESPN HD tvg-name=ESPN HD tvg-logo=”espn.png” group-title=”ASTRO”, ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=AXN HD tvg-name=AXN HD tvg-logo=”axnhd.png” group-title=”ASTRO”, AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Fox tvg-name=Fox HD tvg-logo=”fox.png” group-title=”ASTRO”, FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
 
 ################################################################# AsianTV #################################################################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="AsianTV",KBS WORLD HD
@@ -394,12 +410,27 @@ http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",BeIN 4
 http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id=Fox Sport tvg-name=Fox sport tvg-logo=”foxsport.png” group-title=”ASTRO”, FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Fox Sport tvg-name=Fox sport tvg-logo=”foxsport.png” group-title=”ASTRO”, FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+
 ################################################################# Documentary #################################################################
 #EXTINF:-1 tvg-country="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Documentary",Animal Planet HD
 http://89.216.39.29:8001/
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Documentary",Love Nature 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id=Nat Geo HD tvg-name=National Geographic HD group-title="Astro" tvg-logo=2204956.png, National Geographic HD
+http://202.75.23.35/live/ch38/03.m3u8
+
+#EXTINF:-1 tvg-id=Nat Geo Wild HD tvg-name=Nat Geo Wild HD group-title="Astro" tvg-logo=5144421.png, Nat Geo Wild HD
+http://202.75.23.35/live/ch39/03.m3u8
+
+#EXTINF:-1 tvg-id=Travel Channel tvg-name=Travel Channel group-title="Astro" tvg-logo=6172282.png, TRAVEL Channel
+http://202.75.23.35:1400/live/ch41/03.m3u8
 
 ################################################################# News #################################################################
 
