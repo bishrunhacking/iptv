@@ -170,9 +170,6 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="Hello.my" tvg-name="Hello" tvg-country="MY" tvg-language="English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png" tvg-url="" group-title="AstroTV",Hello
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV 7" tvg-country="MY" tvg-language="" tvg-logo="https://www.vectorise.net/forums/downloads/ntv7_k0C.png" tvg-url="" group-title="MYTV",NTV 7
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="MYTV",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
 
