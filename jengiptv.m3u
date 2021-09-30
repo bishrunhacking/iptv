@@ -132,11 +132,11 @@ http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese;English" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax Japan (English Subs)
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
-http://45.225.204.7:8000/play/a02k
+#EXTINF:0 tvg-name="Nickelodeon" tvg-language="English" tvg-country="US" tvg-id="Nickelodeon" tvg-logo="http://www.nick.com/nick-assets/common/nick-logo-200x200.png" group-title="Family",Nickelodeon (Family) (US) (English)
+http://167.114.102.27/live/ZbQUAzeCTiZ3K7dGIYIBqg/1455735298/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://www.pngfind.com/pngs/m/296-2965113_94kib-1024x768-splat-nickelodeon-splat-logo-png-transparent.png" group-title="Kids",Nickelodeon
-http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+#http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids",Nickelodeon East
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
@@ -205,12 +205,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="Kids",Galxy TV
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-
-#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon
-http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon HD
-http://listaiptv.brcs.ml:8080/SD_NICKELODEON/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
 
 ################################################################# Movies #################################################################
 #EXTINF:-1 tvg-id=Fox tvg-name="Malaysian Ghost Stories Episode 7" tvg-logo="https://malaytv.live/wp-content/uploads/2021/08/Malaysian-Ghost-Stories-1-310x165.jpg" group-title="Astro", Malaysian Ghost Stories Episode 7
