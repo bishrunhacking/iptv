@@ -197,7 +197,7 @@ https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS kids" tvg-name="EBS Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQMH5Z14crn8qMeUE8mmDROyoSiQpptyHgw&usqp=CAU" group-title="Kids",EBS Kids
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8?Uri:eroz_brebes.m3u8
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://i.ibb.co/X3w32yh/big.jpg" group-title="", Big Buck Bunny
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.ibb.co/X3w32yh/big.jpg" group-title="General", Big Buck Bunny
 https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="Kids",Galxy tv
@@ -230,13 +230,13 @@ http://45.225.204.7:8000/play/a00i
 #EXTINF:-1 tvg-id="" tvg-name="Cinema Europe" tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg" group-title="Movies",Cinema Europe
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
-#EXTINF:-1 tvg-id="Thrill.My" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-url="" group-title="", Thrill
+#EXTINF:-1 tvg-id="Thrill.My" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-url="" group-title="General", Thrill
 http://50.7.161.82:8278/streams/d/thrill_pye/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-name="Celestial Classic Movies" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" tvg-url="" group-title="",Celestial Classic 天映经典
+#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-name="Celestial Classic Movies" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" tvg-url="" group-title="General",Celestial Classic 天映经典
 http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/id/AXN.id.png" tvg-url="" group-title="",AXN 
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/id/AXN.id.png" tvg-url="" group-title="General",AXN 
 http://45.225.204.7:8000/play/a05e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bKgwJZb.png?1" group-title="MandarinTV",JIANGSU
@@ -296,31 +296,31 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="https://cdn6.aptoide.com/imgs/b/8/0/b80339aefb6bcda3041767635d13dfaf_icon.png" group-title="AsiaTV",ONE HD
 http://rtmp.one.by:1300
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://advanced-television.com/wp-content/uploads/2020/01/insightTV-150x150.png" tvg-url="" group-title="",Inwonder
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://advanced-television.com/wp-content/uploads/2020/01/insightTV-150x150.png" tvg-url="" group-title="General",Inwonder
 https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png" tvg-url="" group-title="",Introuble 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png" tvg-url="" group-title="General",Introuble 
 https://introuble-samsungindia.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=https://cdn.mos.cms.futurecdn.net/baYs9AuHxx9QXeYBiMvSLU-480-80.jpg group-title="",NASA TV
+#EXTINF:-1 tvg-logo=https://cdn.mos.cms.futurecdn.net/baYs9AuHxx9QXeYBiMvSLU-480-80.jpg group-title="General",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://img.favpng.com/13/18/4/discovery-channel-logo-television-channel-discovery-inc-png-favpng-s7KJJLeavn2MtqhYeGf5rbYtH.jpg" group-title="",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-country="" tvg-logo="https://img.favpng.com/13/18/4/discovery-channel-logo-television-channel-discovery-inc-png-favpng-s7KJJLeavn2MtqhYeGf5rbYtH.jpg" group-title="General",DISCOVERY CHANNEL HD
 http://45.225.204.7:8000/play/a02l
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://img.favpng.com/13/18/4/discovery-channel-logo-television-channel-discovery-inc-png-favpng-s7KJJLeavn2MtqhYeGf5rbYtH.jpg" group-title="",DISCOVERY CHANNEL Tubo
+#EXTINF:-1 tvg-country="" tvg-logo="https://img.favpng.com/13/18/4/discovery-channel-logo-television-channel-discovery-inc-png-favpng-s7KJJLeavn2MtqhYeGf5rbYtH.jpg" group-title="General",DISCOVERY CHANNEL Tubo
 http://45.225.204.7:8000/play/a029
 
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/516px-Smithsonian_logo_color.svg.png" group-title="",Smithsonian Channel
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/516px-Smithsonian_logo_color.svg.png" group-title="General",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-country="IT" tvg-language="" tvg-logo="https://img.apksum.com/7e/com.ten.mtodplay/4.1.1/icon.png" group-title="",Motor Trend
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-country="IT" tvg-language="" tvg-logo="https://img.apksum.com/7e/com.ten.mtodplay/4.1.1/icon.png" group-title="General",Motor Trend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 
-#EXTINF:-1 tvg-id="canalmotor.tv" tvg-name="Canal Motor" tvg-country="IT" tvg-language="English" tvg-logo="https://i.imgur.com/9z3mzDJ.jpg" group-title="",Canal Motor
+#EXTINF:-1 tvg-id="canalmotor.tv" tvg-name="Canal Motor" tvg-country="IT" tvg-language="English" tvg-logo="https://i.imgur.com/9z3mzDJ.jpg" group-title="General",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="MotorTV.it" tvg-name="Motor TV" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/muS5HF5.jpg" group-title="",Motor TV
+#EXTINF:-1 tvg-id="MotorTV.it" tvg-name="Motor TV" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/muS5HF5.jpg" group-title="General",Motor TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-country="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Knowledge",ANIMAL PLANET HD
@@ -373,7 +373,7 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="https://pbs.twimg.com/media/D21XsMSUcAA12NQ.jpg" tvg-logo="https://www.fmradioslive.com/wp-content/uploads/2013/01/TVRI-TV-Indonesia-Logo1.jpeg" group-title="",TVRI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="https://pbs.twimg.com/media/D21XsMSUcAA12NQ.jpg" tvg-logo="https://www.fmradioslive.com/wp-content/uploads/2013/01/TVRI-TV-Indonesia-Logo1.jpeg" group-title="General",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://bit.ly/30EWhNZ" group-title="IndoTV", SCTV
@@ -407,7 +407,7 @@ https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perju
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://image.roku.com/developer_channels/prod/8432f7becc7755f9a82361097f7a62d8c25b270c203565484c583dc0c2d69115.png" group-title="",Dove Channel
+#EXTINF:0 tvg-country="US" tvg-logo="https://image.roku.com/developer_channels/prod/8432f7becc7755f9a82361097f7a62d8c25b270c203565484c583dc0c2d69115.png" group-title="General",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 
 
