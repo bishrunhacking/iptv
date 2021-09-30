@@ -437,6 +437,9 @@ http://45.225.204.7:8000/play/a05q
 #EXTINF:-1 tvg-id="PlanetKnowledge" tvg-name="Planet Knowledge" tvg-country="UK" tvg-language="UK" tvg-logo="https://i.imgur.com/U8GADbT.jpg"  group-title="Documentary",Planet Knowledge
 https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id=" " group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+
 ################################################################# News #################################################################
 
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
