@@ -1,4 +1,5 @@
-#JengIPTV
-#MalaysiaIPTV
-IPTV m3u RAW URL: https://raw.githubusercontent.com/jengkoil/iptv/main/JengIPTV
-IPTV EPG RAW URL: https://raw.githubusercontent.com/jengkoil/epg/master/astro.xml
+## Malaysia IPTV
+This repo is fork from https://yamcode.com/raw/nasi-campur-iptv-200-channels
+
+## EPG List
+https://raw.githubusercontent.com/jengkoil/epg/master/astro.xml
