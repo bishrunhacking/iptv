@@ -39,10 +39,10 @@ http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2 HD" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport12.png" tvg-url="" group-title="Astro",Astro SuperSport 2
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3 HD" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport13.png" tvg-url="" group-title="Astro",Astro SuperSport 3
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3 HD" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport13.png" tvg-url="" group-title="Astro",Astro SuperSport 3 HD
 http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4 HD" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport14.png" tvg-url="" group-title="Astro",Astro SuperSport 4
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4 HD" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport14.png" tvg-url="" group-title="Astro",Astro SuperSport 4 HD
 http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroWahLaiToi.my" tvg-name="Astro Wah Lai Toi HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" tvg-url="" group-title="Astro",Astro 华丽台 (Astro Wah Lai Toi)
