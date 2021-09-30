@@ -3,7 +3,7 @@
 #https://raw.githubusercontent.com/zhafri/IPTV/main/@$TRO%20tV.m3u
 #https://raw.githubusercontent.com/jengkoil/epg/master/astro.xml
 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://raw.githubusercontent.com/jengkoil/epg/master/rtmklik.xml,https://iptv-org.github.io/epg/guides/guidatv.sky.it.guide.xml,https://iptv-org.github.io/epg/guides/m.tv.sms.cz.guide.xml,https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml,https://iptv-org.github.io/epg/guides/tv.yandex.ru.guide.xml,https://iptv-org.github.io/epg/guides/tvguide.com.guide.xml" refresh="1440" max-conn="10" refresh="24"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://raw.githubusercontent.com/jengkoil/epg/master/rtmklik.xml,https://iptv-org.github.io/epg/guides/guidatv.sky.it.guide.xml,https://iptv-org.github.io/epg/guides/m.tv.sms.cz.guide.xml,https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml,https://iptv-org.github.io/epg/guides/tv.yandex.ru.guide.xml,https://iptv-org.github.io/epg/guides/tvguide.com.guide.xml"
 
 ################################################################# AstroTV #################################################################
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="Astro",Astro Ria
@@ -78,12 +78,6 @@ http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Astro",Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
-#EXTINF:-1 tvg-idAstroGoShop tvg-name="Astro Go Shop" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Astro",Astro Go Shop
-https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
-
-#EXTINF:-1 tvg-id="AstroGoShop2" tvg-name="Astro Go Shop 2" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_300.png" group-title="Astro",Astro Go Shop 2
-https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8
-
 ################################################################# MYTV #################################################################
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="MYTV",TV1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -141,8 +135,6 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" tvg-url="" group-title="MYTV",RTM Sports
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/mX1nnGy.png" group-title="MYTV",KIX
-http://210.210.155.35/uq2663/h/h07/01.m3u8
 
 ################################################################# Kids #################################################################
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="Kids", Cartoon Network 
@@ -173,15 +165,6 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 ################################################################# Movies #################################################################
-#EXTINF:-1 tvg-logo=https://mediahint.com/support/wp-content/uploads/2014/12/cinemax.jpg group-title="Movies", Cinemax
-https://raw.githubusercontent.com/zaltvplayer/play01/master/cinemax.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="" group-title="Movies",Celestival Movies
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Movies",Cinema World
-http://210.210.155.35/uq2663/h/h04/01.m3u8
-
 #EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title="Movies", Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 
