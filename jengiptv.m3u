@@ -14,11 +14,11 @@ http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxJ9W4ZSIG9nY8BiB8IlCyYYvokYhzhmqEGbQjkrcTQeoZOXw0sV1xCm486gZAcczuw&usqp=CAU" tvg-url="" group-title="Astro",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png" tvg-url="" group-title="Astro",Astro Oasis
-http://penang.layarku.tv/edge/149_329_live/chunklist_w278239321.m3u8
-
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima HD" tvg-country="MY" tvg-language="" tvg-logo="https://newcastlebeach.org/images/prima-logo-6.png" tvg-url="" group-title="Astro",Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png" tvg-url="" group-title="Astro",Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroAOD311.my" tvg-name="Astro AOD HD 311" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Astro",Astro AOD 311
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
@@ -121,14 +121,6 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 #EXTINF:-1 group-title="MalaysiaTV" tvg-id="Berita RTM" tvg-chno="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="Ohk.us" tvg-name="Oh!K HD" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" tvg-url="" group-title="MalaysiaTV",Oh! K
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="MalaysiaTV",HGTV Asia
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MaahTV.my" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/MRWFcox.jpg" group-title="MalaysiaTV",Maah TV
-http://51.210.199.33/hls/stream.m3u8
 
 
 
@@ -143,55 +135,11 @@ https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://www.pngfind.com/pngs/m/296-2965113_94kib-1024x768-splat-nickelodeon-splat-logo-png-transparent.png" group-title="Kids",Nickelodeon
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids",Nickelodeon East
-http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NickJrTooUK.us" tvg-country="UK;IE" tvg-language="English" tvg-logo="http://neczbm.to/images/channels/NickJrToo.png" group-title="Kids",Nick Jr Too UK
-http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="DisneyChannelAsia.us" tvg-country="ASIA" tvg-language="English" tvg-logo="" group-title="Kids",Disney Channel Asia
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DisneyJuniorAsia.us" tvg-country="ASIA" tvg-language="" tvg-logo="" group-title="Kids",Disney Junior Asia
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABCKids.au" tvg-country="AU" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="Kids",ABC Kids
 https://c.mjh.nz/101002210222
-
-#EXTINF:-1 tvg-id="Ameba.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/612ZLob%2BSOL.png" group-title="Kids",Ameba
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BumblebeeTVCountryBoyKidsVideo.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",Bumblebee TV Country Boy Kids Video
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BumblebeeTVCuteZone.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/unYHTWg.png" group-title="Kids",Bumblebee TV Cute Zone
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BumblebeeTVFGTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/uRess78.png" group-title="Kids",Bumblebee TV FGTV
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BumblebeeTVFunZone.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SfJuMjV.png" group-title="Kids",Bumblebee TV Fun Zone
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BumblebeeTVGiggleZone.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CvbLApY.png" group-title="Kids",Bumblebee TV Giggle Zone
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BumblebeeTVLegoToons.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",Bumblebee TV Lego Toons
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BumblebeeTVLetsPlayMinecraft.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/EqvWDU4.jpg" group-title="Kids",Bumblebee TV Lets Play Minecraft
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVMasterBuilder.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",Bumblebee TV Master Builder
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BumblebeeTVToyZone.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/uRxkOD1.jpg" group-title="Kids",Bumblebee TV Toy Zone
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/t3Jsks7.png" group-title="Kids",Camp Spoopy
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="Kids",Galxy TV
-https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
 
 
@@ -227,18 +175,24 @@ http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id=" " group-title="AsianTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
+#EXTINF:-1 tvg-id="Ohk.us" tvg-name="Oh!K HD" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" tvg-url="" group-title="MalaysiaTV",Oh! K
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="AsianTV",HGTV Asia
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MaahTV.my" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/MRWFcox.jpg" group-title="AsianTV",Maah TV
+http://51.210.199.33/hls/stream.m3u8
 
 # ThaiTV
 
-#EXTINF:-1 tvg-id="Channel7.th" tvg-name="Channel 7" tvg-country="TH" tvg-language="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="ThaiTV",Channel 7
+#EXTINF:-1 tvg-id="Channel7.th" tvg-name="Channel 7" tvg-country="TH" tvg-language="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="AsianTV",Channel 7
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Channel5.th" tvg-name="Channel 5" tvg-country="TH" tvg-language="Thai" tvg-logo="http://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png" group-title="ThaiTV",Channel 5 
+#EXTINF:-1 tvg-id="Channel5.th" tvg-name="Channel 5" tvg-country="TH" tvg-language="Thai" tvg-logo="http://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png" group-title="AsianTV",Channel 5 
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 
-#EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" tvg-country="TH" tvg-language="Thai" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" group-title="ThaiTV",Channel 8
+#EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" tvg-country="TH" tvg-language="Thai" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" group-title="AsianTV",Channel 8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
 
